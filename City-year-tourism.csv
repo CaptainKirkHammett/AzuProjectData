@@ -1,1297 +1,1297 @@
-"Matkan kohdekunta";"Vuosi";"Majoitus";"Yön yli matkoja, tuhatta matkaa";"Matkojen muutos, %";"Yöpymisiä, tuhatta yöpymistä";"Yöpymisten muutos, %";"Matkan keskimääräinen kesto, yötä";"Matkan mediaanikesto, yötä"
-"Alajärvi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Alajärvi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Alavus";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Asikkala";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Enontekiö";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Espoo";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Forssa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Hamina";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2021";"Maksullinen majoitus";100;..;220;..;2.2;2.0
-"Hanko";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Hanko";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Heinola";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Helsinki";"2012";"Maksullinen majoitus";850;..;1550;..;1.8;2.0
-"Helsinki";"2013";"Maksullinen majoitus";790;-7;1330;-14;1.7;1.0
-"Helsinki";"2014";"Maksullinen majoitus";780;-2;1350;1;1.7;2.0
-"Helsinki";"2015";"Maksullinen majoitus";900;16;1640;21;1.8;1.0
-"Helsinki";"2016";"Maksullinen majoitus";850;-6;1430;-13;1.7;1.0
-"Helsinki";"2017";"Maksullinen majoitus";970;13;1700;19;1.8;1.0
-"Helsinki";"2018";"Maksullinen majoitus";850;-12;1660;-3;2.0;2.0
-"Helsinki";"2019";"Maksullinen majoitus";990;16;1800;9;1.8;2.0
-"Helsinki";"2020";"Maksullinen majoitus";430;-56;900;-50;2.1;2.0
-"Helsinki";"2021";"Maksullinen majoitus";620;42;1330;48;2.1;2.0
-"Helsinki";"2022";"Maksullinen majoitus";850;37;1720;29;2.0;1.0
-"Helsinki";"2023";"Maksullinen majoitus";550;-35;1030;-40;1.9;2.0
-"Hirvensalmi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Hirvensalmi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Hollola";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Hyvinkää";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Hämeenlinna";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Hämeenlinna";"2013";"Maksullinen majoitus";120;..;250;..;2.1;1.0
-"Hämeenlinna";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Hämeenlinna";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Hämeenlinna";"2016";"Maksullinen majoitus";120;..;240;..;2.0;1.0
-"Hämeenlinna";"2017";"Maksullinen majoitus";120;3;230;-7;1.9;2.0
-"Hämeenlinna";"2018";"Maksullinen majoitus";130;14;290;27;2.2;1.0
-"Hämeenlinna";"2019";"Maksullinen majoitus";170;22;320;13;1.9;1.5
-"Hämeenlinna";"2020";"Maksullinen majoitus";100;-38;180;-44;1.8;2.0
-"Hämeenlinna";"2021";"Maksullinen majoitus";110;10;170;-7;1.5;1.0
-"Hämeenlinna";"2022";"Maksullinen majoitus";120;10;300;79;2.5;2.0
-"Hämeenlinna";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Iisalmi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Iitti";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Ikaalinen";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2019";"Maksullinen majoitus";120;..;320;..;2.7;2.0
-"Imatra";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Imatra";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Inari";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Inari";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Inari";"2014";"Maksullinen majoitus";120;..;690;..;5.8;5.0
-"Inari";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Inari";"2016";"Maksullinen majoitus";100;..;570;..;5.7;5.0
-"Inari";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Inari";"2018";"Maksullinen majoitus";140;..;740;..;5.3;6.0
-"Inari";"2019";"Maksullinen majoitus";140;3;670;-10;4.8;5.0
-"Inari";"2020";"Maksullinen majoitus";160;12;930;39;5.8;6.0
-"Inari";"2021";"Maksullinen majoitus";120;-23;830;-11;6.9;6.0
-"Inari";"2022";"Maksullinen majoitus";160;29;1040;26;6.5;5.0
-"Inari";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Janakkala";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2012";"Maksullinen majoitus";100;..;180;..;1.8;2.0
-"Joensuu";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2014";"Maksullinen majoitus";110;..;330;..;3.0;2.0
-"Joensuu";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2020";"Maksullinen majoitus";120;..;350;..;2.9;2.0
-"Joensuu";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Joensuu";"2022";"Maksullinen majoitus";100;..;290;..;2.9;2.0
-"Joensuu";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Joutsa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Jyväskylä";"2012";"Maksullinen majoitus";190;..;350;..;1.8;1.5
-"Jyväskylä";"2013";"Maksullinen majoitus";200;6;310;-11;1.6;1.0
-"Jyväskylä";"2014";"Maksullinen majoitus";240;21;400;31;1.7;2.0
-"Jyväskylä";"2015";"Maksullinen majoitus";210;-13;400;0;1.9;2.0
-"Jyväskylä";"2016";"Maksullinen majoitus";260;28;480;20;1.8;2.0
-"Jyväskylä";"2017";"Maksullinen majoitus";170;-34;270;-44;1.6;1.0
-"Jyväskylä";"2018";"Maksullinen majoitus";200;15;420;54;2.1;1.0
-"Jyväskylä";"2019";"Maksullinen majoitus";230;16;450;7;2.0;2.0
-"Jyväskylä";"2020";"Maksullinen majoitus";120;-49;240;-46;2.0;2.0
-"Jyväskylä";"2021";"Maksullinen majoitus";210;80;460;89;2.2;2.0
-"Jyväskylä";"2022";"Maksullinen majoitus";120;-46;180;-61;1.5;2.0
-"Jyväskylä";"2023";"Maksullinen majoitus";110;-6;220;20;2.0;2.0
-"Jämsä";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Jämsä";"2013";"Maksullinen majoitus";120;..;250;..;2.1;2.0
-"Jämsä";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Jämsä";"2015";"Maksullinen majoitus";100;..;240;..;2.4;2.0
-"Jämsä";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Jämsä";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Jämsä";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Jämsä";"2019";"Maksullinen majoitus";110;..;310;..;2.8;2.0
-"Jämsä";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Jämsä";"2021";"Maksullinen majoitus";150;..;490;..;3.3;3.0
-"Jämsä";"2022";"Maksullinen majoitus";120;-25;370;-25;3.1;2.0
-"Jämsä";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kajaani";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kalajoki";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasala";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kangasniemi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kankaanpää";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kauhava";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemijärvi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kemiönsaari";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Keuruu";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kirkkonummi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kitee";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kittilä";"2012";"Maksullinen majoitus";170;..;800;..;4.7;5.0
-"Kittilä";"2013";"Maksullinen majoitus";170;-1;870;9;5.1;5.0
-"Kittilä";"2014";"Maksullinen majoitus";170;-1;780;-11;4.6;5.0
-"Kittilä";"2015";"Maksullinen majoitus";170;5;880;14;5.2;5.0
-"Kittilä";"2016";"Maksullinen majoitus";120;-29;730;-18;6.1;6.0
-"Kittilä";"2017";"Maksullinen majoitus";170;38;750;3;4.4;4.0
-"Kittilä";"2018";"Maksullinen majoitus";180;4;890;19;4.9;4.5
-"Kittilä";"2019";"Maksullinen majoitus";170;-7;770;-13;4.5;5.0
-"Kittilä";"2020";"Maksullinen majoitus";150;-9;870;12;5.8;5.5
-"Kittilä";"2021";"Maksullinen majoitus";180;19;970;12;5.4;5.0
-"Kittilä";"2022";"Maksullinen majoitus";250;41;1360;40;5.4;6.0
-"Kittilä";"2023";"Maksullinen majoitus";110;-56;670;-51;6.1;6.5
-"Kokkola";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kokkola";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kolari";"2012";"Maksullinen majoitus";100;..;530;..;5.3;6.0
-"Kolari";"2013";"Maksullinen majoitus";130;33;830;56;6.4;7.0
-"Kolari";"2014";"Maksullinen majoitus";100;-28;600;-28;6.0;7.0
-"Kolari";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kolari";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kolari";"2017";"Maksullinen majoitus";130;..;780;..;6.0;6.0
-"Kolari";"2018";"Maksullinen majoitus";140;11;930;18;6.6;7.0
-"Kolari";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kolari";"2020";"Maksullinen majoitus";130;..;800;..;6.2;7.0
-"Kolari";"2021";"Maksullinen majoitus";140;7;930;16;6.6;7.0
-"Kolari";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kolari";"2023";"Maksullinen majoitus";100;..;620;..;6.2;7.0
-"Kotka";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kotka";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kouvola";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuhmoinen";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuopio";"2012";"Maksullinen majoitus";340;..;850;..;2.5;2.0
-"Kuopio";"2013";"Maksullinen majoitus";290;-15;710;-16;2.4;2.0
-"Kuopio";"2014";"Maksullinen majoitus";300;2;660;-7;2.2;2.0
-"Kuopio";"2015";"Maksullinen majoitus";320;8;850;28;2.7;2.0
-"Kuopio";"2016";"Maksullinen majoitus";310;-4;760;-10;2.5;2.0
-"Kuopio";"2017";"Maksullinen majoitus";300;-3;690;-10;2.3;2.0
-"Kuopio";"2018";"Maksullinen majoitus";230;-22;670;-2;2.9;2.0
-"Kuopio";"2019";"Maksullinen majoitus";260;9;630;-7;2.4;2.0
-"Kuopio";"2020";"Maksullinen majoitus";230;-8;650;4;2.8;2.0
-"Kuopio";"2021";"Maksullinen majoitus";270;16;950;46;3.5;3.0
-"Kuopio";"2022";"Maksullinen majoitus";250;-8;630;-34;2.5;2.0
-"Kuopio";"2023";"Maksullinen majoitus";170;-31;540;-15;3.2;2.0
-"Kurikka";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kurikka";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Kustavi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Kuusamo";"2012";"Maksullinen majoitus";220;..;870;..;4.0;4.0
-"Kuusamo";"2013";"Maksullinen majoitus";230;3;900;3;3.9;3.0
-"Kuusamo";"2014";"Maksullinen majoitus";200;-9;940;5;4.7;4.0
-"Kuusamo";"2015";"Maksullinen majoitus";210;5;1020;8;4.9;4.0
-"Kuusamo";"2016";"Maksullinen majoitus";300;39;1350;33;4.5;4.0
-"Kuusamo";"2017";"Maksullinen majoitus";200;-33;850;-37;4.3;4.0
-"Kuusamo";"2018";"Maksullinen majoitus";240;20;990;17;4.1;3.0
-"Kuusamo";"2019";"Maksullinen majoitus";230;-7;1160;17;5.0;5.5
-"Kuusamo";"2020";"Maksullinen majoitus";220;-2;1100;-5;5.0;4.0
-"Kuusamo";"2021";"Maksullinen majoitus";320;45;1570;43;4.9;4.0
-"Kuusamo";"2022";"Maksullinen majoitus";240;-25;1220;-23;5.1;5.0
-"Kuusamo";"2023";"Maksullinen majoitus";140;-42;720;-41;5.1;5.0
-"Lahti";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2013";"Maksullinen majoitus";100;..;240;..;2.4;2.0
-"Lahti";"2014";"Maksullinen majoitus";110;10;220;-6;2.0;2.0
-"Lahti";"2015";"Maksullinen majoitus";100;-8;160;-27;1.6;1.5
-"Lahti";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2017";"Maksullinen majoitus";120;..;210;..;1.8;2.0
-"Lahti";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Lahti";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2015";"Maksullinen majoitus";110;..;200;..;1.8;2.0
-"Lappeenranta";"2016";"Maksullinen majoitus";110;8;210;9;1.9;2.0
-"Lappeenranta";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2018";"Maksullinen majoitus";120;..;250;..;2.1;2.0
-"Lappeenranta";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2020";"Maksullinen majoitus";100;..;370;..;3.7;3.0
-"Lappeenranta";"2021";"Maksullinen majoitus";130;29;340;-8;2.6;2.0
-"Lappeenranta";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Lappeenranta";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Laukaa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Leppävirta";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2020";"Maksullinen majoitus";110;..;470;..;4.3;4.0
-"Lieksa";"2021";"Maksullinen majoitus";110;-3;360;-22;3.3;3.0
-"Lieksa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Lieksa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Lohja";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Loppi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Loviisa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2021";"Maksullinen majoitus";110;..;430;..;3.9;4.0
-"Maarianhamina - Mariehamn";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Maarianhamina - Mariehamn";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2013";"Maksullinen majoitus";100;..;260;..;2.6;2.0
-"Mikkeli";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2017";"Maksullinen majoitus";100;..;240;..;2.4;2.0
-"Mikkeli";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2019";"Maksullinen majoitus";130;..;220;..;1.7;1.0
-"Mikkeli";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Mikkeli";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntsälä";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Mänttä-Vilppula";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Mäntyharju";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2012";"Maksullinen majoitus";110;..;270;..;2.5;2.0
-"Naantali";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2019";"Maksullinen majoitus";110;..;230;..;2.1;2.0
-"Naantali";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Naantali";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Nokia";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmes";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Nurmijärvi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Orivesi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Oulu";"2012";"Maksullinen majoitus";190;..;390;..;2.1;2.0
-"Oulu";"2013";"Maksullinen majoitus";200;2;430;8;2.2;2.0
-"Oulu";"2014";"Maksullinen majoitus";180;-9;430;0;2.4;2.0
-"Oulu";"2015";"Maksullinen majoitus";220;22;430;1;2.0;2.0
-"Oulu";"2016";"Maksullinen majoitus";250;14;470;8;1.9;2.0
-"Oulu";"2017";"Maksullinen majoitus";200;-18;410;-11;2.1;2.0
-"Oulu";"2018";"Maksullinen majoitus";230;12;580;39;2.5;2.0
-"Oulu";"2019";"Maksullinen majoitus";230;3;480;-17;2.1;2.0
-"Oulu";"2020";"Maksullinen majoitus";140;-39;280;-41;2.0;2.0
-"Oulu";"2021";"Maksullinen majoitus";170;23;560;101;3.3;2.5
-"Oulu";"2022";"Maksullinen majoitus";180;2;380;-33;2.1;2.0
-"Oulu";"2023";"Maksullinen majoitus";150;-17;310;-16;2.1;2.0
-"Padasjoki";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Padasjoki";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Parainen";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Pieksämäki";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2014";"Maksullinen majoitus";100;..;180;..;1.8;2.0
-"Pori";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2017";"Maksullinen majoitus";110;..;280;..;2.5;2.0
-"Pori";"2018";"Maksullinen majoitus";120;12;260;-7;2.2;2.0
-"Pori";"2019";"Maksullinen majoitus";110;-8;190;-27;1.7;1.5
-"Pori";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2021";"Maksullinen majoitus";100;..;250;..;2.5;2.0
-"Pori";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Pori";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Porvoo";"2022";"Maksullinen majoitus";100;..;170;..;1.7;1.0
-"Porvoo";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Pudasjärvi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Puumala";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Pälkäne";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Raahe";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Raasepori";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Rantasalmi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Rauma";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Riihimäki";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2014";"Maksullinen majoitus";110;..;340;..;3.1;2.0
-"Rovaniemi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2018";"Maksullinen majoitus";110;..;260;..;2.4;2.0
-"Rovaniemi";"2019";"Maksullinen majoitus";110;8;290;12;2.6;2.0
-"Rovaniemi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Rovaniemi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruokolahti";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Ruovesi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Saarijärvi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Salo";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Sastamala";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Savitaipale";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Savonlinna";"2012";"Maksullinen majoitus";110;..;310;..;2.8;2.0
-"Savonlinna";"2013";"Maksullinen majoitus";110;5;340;9;3.1;2.0
-"Savonlinna";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Savonlinna";"2015";"Maksullinen majoitus";110;..;260;..;2.4;2.0
-"Savonlinna";"2016";"Maksullinen majoitus";100;-10;300;13;3.0;2.0
-"Savonlinna";"2017";"Maksullinen majoitus";110;14;290;-4;2.6;2.0
-"Savonlinna";"2018";"Maksullinen majoitus";100;-9;210;-26;2.1;2.0
-"Savonlinna";"2019";"Maksullinen majoitus";110;5;310;47;2.8;3.0
-"Savonlinna";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Savonlinna";"2021";"Maksullinen majoitus";100;..;260;..;2.6;2.0
-"Savonlinna";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Savonlinna";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2019";"Maksullinen majoitus";120;..;180;..;1.5;1.0
-"Seinäjoki";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Seinäjoki";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Sodankylä";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Somero";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Sotkamo";"2012";"Maksullinen majoitus";120;..;400;..;3.3;2.5
-"Sotkamo";"2013";"Maksullinen majoitus";160;35;590;47;3.7;3.0
-"Sotkamo";"2014";"Maksullinen majoitus";120;-24;420;-28;3.5;3.0
-"Sotkamo";"2015";"Maksullinen majoitus";160;35;570;35;3.6;3.0
-"Sotkamo";"2016";"Maksullinen majoitus";120;-26;540;-5;4.5;3.5
-"Sotkamo";"2017";"Maksullinen majoitus";110;-10;360;-33;3.3;3.0
-"Sotkamo";"2018";"Maksullinen majoitus";150;38;490;35;3.3;3.0
-"Sotkamo";"2019";"Maksullinen majoitus";160;5;490;0;3.1;3.0
-"Sotkamo";"2020";"Maksullinen majoitus";140;-8;780;58;5.6;3.0
-"Sotkamo";"2021";"Maksullinen majoitus";120;-18;490;-37;4.1;4.5
-"Sotkamo";"2022";"Maksullinen majoitus";150;23;660;34;4.4;4.0
-"Sotkamo";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Suomussalmi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Sysmä";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Taipalsaari";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Taivalkoski";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Tammela";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Tampere";"2012";"Maksullinen majoitus";580;..;1080;..;1.9;2.0
-"Tampere";"2013";"Maksullinen majoitus";550;-6;940;-13;1.7;1.0
-"Tampere";"2014";"Maksullinen majoitus";390;-28;670;-29;1.7;1.0
-"Tampere";"2015";"Maksullinen majoitus";530;36;890;33;1.7;1.0
-"Tampere";"2016";"Maksullinen majoitus";570;8;960;8;1.7;1.0
-"Tampere";"2017";"Maksullinen majoitus";720;26;1320;38;1.8;1.0
-"Tampere";"2018";"Maksullinen majoitus";640;-11;1240;-6;1.9;1.0
-"Tampere";"2019";"Maksullinen majoitus";570;-10;840;-32;1.5;1.0
-"Tampere";"2020";"Maksullinen majoitus";320;-43;620;-26;1.9;2.0
-"Tampere";"2021";"Maksullinen majoitus";460;43;830;33;1.8;1.0
-"Tampere";"2022";"Maksullinen majoitus";460;-1;950;14;2.1;1.0
-"Tampere";"2023";"Maksullinen majoitus";470;2;1080;13;2.3;2.0
-"Tornio";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Tornio";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Turku";"2012";"Maksullinen majoitus";330;..;630;..;1.9;2.0
-"Turku";"2013";"Maksullinen majoitus";280;-15;460;-27;1.6;1.0
-"Turku";"2014";"Maksullinen majoitus";290;4;590;26;2.0;2.0
-"Turku";"2015";"Maksullinen majoitus";410;43;810;38;2.0;2.0
-"Turku";"2016";"Maksullinen majoitus";290;-28;480;-41;1.7;1.0
-"Turku";"2017";"Maksullinen majoitus";330;11;760;60;2.3;1.0
-"Turku";"2018";"Maksullinen majoitus";320;-3;590;-22;1.8;2.0
-"Turku";"2019";"Maksullinen majoitus";380;18;700;18;1.8;2.0
-"Turku";"2020";"Maksullinen majoitus";220;-42;470;-33;2.1;2.0
-"Turku";"2021";"Maksullinen majoitus";330;54;590;27;1.8;2.0
-"Turku";"2022";"Maksullinen majoitus";400;18;780;32;2.0;2.0
-"Turku";"2023";"Maksullinen majoitus";260;-34;400;-48;1.5;1.0
-"Uusikaupunki";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Uusikaupunki";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaala";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2012";"Maksullinen majoitus";100;..;200;..;2.0;2.0
-"Vaasa";"2013";"Maksullinen majoitus";110;16;250;27;2.3;1.0
-"Vaasa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2015";"Maksullinen majoitus";100;..;220;..;2.2;2.0
-"Vaasa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2017";"Maksullinen majoitus";100;..;170;..;1.7;1.0
-"Vaasa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2019";"Maksullinen majoitus";100;..;220;..;2.2;1.0
-"Vaasa";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Vaasa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2019";"Maksullinen majoitus";110;..;160;..;1.5;1.0
-"Vantaa";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Vantaa";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Varkaus";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Vihti";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Virrat";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Ylöjärvi";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Ähtäri";"2023";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2012";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2013";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2014";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2015";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2016";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2017";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2018";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2019";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2020";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2021";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2022";"Maksullinen majoitus";.;.;.;.;.;.
-"Äänekoski";"2023";"Maksullinen majoitus";.;.;.;.;.;.
+"Matkan kohdekunta","Vuosi","Yön yli matkoja, tuhatta matkaa","Matkojen muutos, %","Yöpymisiä, tuhatta yöpymistä","Yöpymisten muutos, %","Matkan keskimääräinen kesto, yötä","Matkan mediaanikesto, yötä"
+"Alajärvi","2012",.,.,.,.,.,.
+"Alajärvi","2013",.,.,.,.,.,.
+"Alajärvi","2014",.,.,.,.,.,.
+"Alajärvi","2015",.,.,.,.,.,.
+"Alajärvi","2016",.,.,.,.,.,.
+"Alajärvi","2017",100,..,210,..,2.1,2.0
+"Alajärvi","2018",.,.,.,.,.,.
+"Alajärvi","2019",.,.,.,.,.,.
+"Alajärvi","2020",.,.,.,.,.,.
+"Alajärvi","2021",.,.,.,.,.,.
+"Alajärvi","2022",.,.,.,.,.,.
+"Alajärvi","2023",.,.,.,.,.,.
+"Alavus","2012",120,..,290,..,2.4,2.0
+"Alavus","2013",130,10,290,-2,2.2,2.0
+"Alavus","2014",100,-24,360,26,3.6,2.0
+"Alavus","2015",.,.,.,.,.,.
+"Alavus","2016",140,..,290,..,2.1,2.0
+"Alavus","2017",.,.,.,.,.,.
+"Alavus","2018",100,..,250,..,2.5,2.0
+"Alavus","2019",.,.,.,.,.,.
+"Alavus","2020",.,.,.,.,.,.
+"Alavus","2021",150,..,470,..,3.1,2.0
+"Alavus","2022",.,.,.,.,.,.
+"Alavus","2023",.,.,.,.,.,.
+"Asikkala","2012",.,.,.,.,.,.
+"Asikkala","2013",.,.,.,.,.,.
+"Asikkala","2014",.,.,.,.,.,.
+"Asikkala","2015",.,.,.,.,.,.
+"Asikkala","2016",110,..,330,..,3.0,2.0
+"Asikkala","2017",130,19,480,44,3.7,2.0
+"Asikkala","2018",.,.,.,.,.,.
+"Asikkala","2019",.,.,.,.,.,.
+"Asikkala","2020",120,..,560,..,4.7,2.0
+"Asikkala","2021",130,9,400,-29,3.1,2.0
+"Asikkala","2022",.,.,.,.,.,.
+"Asikkala","2023",.,.,.,.,.,.
+"Enontekiö","2012",.,.,.,.,.,.
+"Enontekiö","2013",.,.,.,.,.,.
+"Enontekiö","2014",.,.,.,.,.,.
+"Enontekiö","2015",.,.,.,.,.,.
+"Enontekiö","2016",.,.,.,.,.,.
+"Enontekiö","2017",.,.,.,.,.,.
+"Enontekiö","2018",.,.,.,.,.,.
+"Enontekiö","2019",.,.,.,.,.,.
+"Enontekiö","2020",110,..,750,..,6.8,5.0
+"Enontekiö","2021",.,.,.,.,.,.
+"Enontekiö","2022",.,.,.,.,.,.
+"Enontekiö","2023",.,.,.,.,.,.
+"Espoo","2012",340,..,840,..,2.5,2.0
+"Espoo","2013",270,-21,640,-23,2.4,2.0
+"Espoo","2014",280,3,660,3,2.4,2.0
+"Espoo","2015",360,29,980,49,2.7,2.0
+"Espoo","2016",340,-3,910,-7,2.7,2.0
+"Espoo","2017",240,-29,600,-33,2.5,2.0
+"Espoo","2018",240,-2,590,-2,2.5,2.0
+"Espoo","2019",260,9,590,0,2.3,2.0
+"Espoo","2020",270,2,700,18,2.6,2.0
+"Espoo","2021",300,14,830,18,2.8,2.0
+"Espoo","2022",330,8,700,-15,2.1,2.0
+"Espoo","2023",230,-30,670,-4,2.9,2.0
+"Forssa","2012",.,.,.,.,.,.
+"Forssa","2013",.,.,.,.,.,.
+"Forssa","2014",.,.,.,.,.,.
+"Forssa","2015",.,.,.,.,.,.
+"Forssa","2016",.,.,.,.,.,.
+"Forssa","2017",110,..,200,..,1.8,2.0
+"Forssa","2018",.,.,.,.,.,.
+"Forssa","2019",.,.,.,.,.,.
+"Forssa","2020",.,.,.,.,.,.
+"Forssa","2021",.,.,.,.,.,.
+"Forssa","2022",.,.,.,.,.,.
+"Forssa","2023",.,.,.,.,.,.
+"Hamina","2012",.,.,.,.,.,.
+"Hamina","2013",.,.,.,.,.,.
+"Hamina","2014",.,.,.,.,.,.
+"Hamina","2015",.,.,.,.,.,.
+"Hamina","2016",.,.,.,.,.,.
+"Hamina","2017",.,.,.,.,.,.
+"Hamina","2018",.,.,.,.,.,.
+"Hamina","2019",.,.,.,.,.,.
+"Hamina","2020",120,..,500,..,4.2,3.0
+"Hamina","2021",200,61,810,64,4.1,3.0
+"Hamina","2022",100,-48,370,-55,3.7,2.0
+"Hamina","2023",.,.,.,.,.,.
+"Hanko","2012",.,.,.,.,.,.
+"Hanko","2013",.,.,.,.,.,.
+"Hanko","2014",.,.,.,.,.,.
+"Hanko","2015",.,.,.,.,.,.
+"Hanko","2016",110,..,270,..,2.5,2.0
+"Hanko","2017",100,-5,210,-24,2.1,2.0
+"Hanko","2018",120,17,420,102,3.5,2.0
+"Hanko","2019",.,.,.,.,.,.
+"Hanko","2020",110,..,350,..,3.2,2.0
+"Hanko","2021",210,83,570,63,2.7,2.0
+"Hanko","2022",130,-38,440,-23,3.4,2.0
+"Hanko","2023",100,-24,360,-17,3.6,4.5
+"Heinola","2012",180,.,440,.,2.4,2.0
+"Heinola","2013",170,-2,400,-10,2.4,2.0
+"Heinola","2014",180,5,370,-6,2.1,2.0
+"Heinola","2015",130,-30,370,-1,2.8,2.0
+"Heinola","2016",220,66,500,37,2.3,2.0
+"Heinola","2017",170,-19,420,-16,2.5,2.0
+"Heinola","2018",200,16,600,43,3.0,2.0
+"Heinola","2019",200,-3,780,29,3.9,2.0
+"Heinola","2020",250,28,860,10,3.4,2.0
+"Heinola","2021",190,-23,490,-42,2.6,2.0
+"Heinola","2022",200,3,700,43,3.5,3.0
+"Heinola","2023",140,-28,360,-49,2.6,2.0
+"Helsinki","2012",2350,..,5550,..,2.4,2.0
+"Helsinki","2013",2090,-11,4490,-19,2.1,2.0
+"Helsinki","2014",2080,0,4410,-2,2.1,2.0
+"Helsinki","2015",2370,14,5100,16,2.2,2.0
+"Helsinki","2016",2230,-6,4670,-8,2.1,2.0
+"Helsinki","2017",2540,14,5390,15,2.1,2.0
+"Helsinki","2018",2210,-13,4960,-8,2.2,2.0
+"Helsinki","2019",2400,9,5100,3,2.1,2.0
+"Helsinki","2020",1140,-52,2900,-43,2.5,2.0
+"Helsinki","2021",1410,23,3290,14,2.3,2.0
+"Helsinki","2022",1710,22,3990,21,2.3,2.0
+"Helsinki","2023",1100,-36,2530,-37,2.3,2.0
+"Hirvensalmi","2012",.,.,.,.,.,.
+"Hirvensalmi","2013",.,.,.,.,.,.
+"Hirvensalmi","2014",.,.,.,.,.,.
+"Hirvensalmi","2015",.,.,.,.,.,.
+"Hirvensalmi","2016",.,.,.,.,.,.
+"Hirvensalmi","2017",.,.,.,.,.,.
+"Hirvensalmi","2018",.,.,.,.,.,.
+"Hirvensalmi","2019",.,.,.,.,.,.
+"Hirvensalmi","2020",.,.,.,.,.,.
+"Hirvensalmi","2021",110,..,390,..,3.5,2.0
+"Hirvensalmi","2022",.,.,.,.,.,.
+"Hirvensalmi","2023",.,.,.,.,.,.
+"Hollola","2012",.,.,.,.,.,.
+"Hollola","2013",.,.,.,.,.,.
+"Hollola","2014",.,.,.,.,.,.
+"Hollola","2015",.,.,.,.,.,.
+"Hollola","2016",.,.,.,.,.,.
+"Hollola","2017",.,.,.,.,.,.
+"Hollola","2018",.,.,.,.,.,.
+"Hollola","2019",.,.,.,.,.,.
+"Hollola","2020",100,..,290,..,2.9,2.5
+"Hollola","2021",110,1,360,23,3.3,3.0
+"Hollola","2022",.,.,.,.,.,.
+"Hollola","2023",.,.,.,.,.,.
+"Hyvinkää","2012",100,..,200,..,2.0,1.0
+"Hyvinkää","2013",130,32,290,47,2.2,2.0
+"Hyvinkää","2014",100,-24,270,-7,2.7,1.0
+"Hyvinkää","2015",110,3,200,-27,1.8,2.0
+"Hyvinkää","2016",.,.,.,.,.,.
+"Hyvinkää","2017",.,.,.,.,.,.
+"Hyvinkää","2018",.,.,.,.,.,.
+"Hyvinkää","2019",130,..,250,..,1.9,2.0
+"Hyvinkää","2020",.,.,.,.,.,.
+"Hyvinkää","2021",100,..,210,..,2.1,1.0
+"Hyvinkää","2022",110,7,260,23,2.4,2.0
+"Hyvinkää","2023",.,.,.,.,.,.
+"Hämeenlinna","2012",390,..,820,..,2.1,2.0
+"Hämeenlinna","2013",390,0,770,-6,2.0,2.0
+"Hämeenlinna","2014",380,-3,900,17,2.4,2.0
+"Hämeenlinna","2015",370,-1,1420,58,3.8,2.0
+"Hämeenlinna","2016",420,13,970,-32,2.3,2.0
+"Hämeenlinna","2017",440,5,980,2,2.2,2.0
+"Hämeenlinna","2018",350,-21,820,-17,2.3,2.0
+"Hämeenlinna","2019",550,56,1010,24,1.8,2.0
+"Hämeenlinna","2020",320,-41,830,-18,2.6,2.0
+"Hämeenlinna","2021",510,60,1220,47,2.4,2.0
+"Hämeenlinna","2022",400,-23,1080,-12,2.7,2.0
+"Hämeenlinna","2023",340,-15,740,-31,2.2,2.0
+"Iisalmi","2012",100,..,340,..,3.4,3.0
+"Iisalmi","2013",130,41,390,16,3.0,2.0
+"Iisalmi","2014",140,6,360,-9,2.6,2.0
+"Iisalmi","2015",120,-14,440,22,3.7,2.0
+"Iisalmi","2016",130,3,270,-37,2.1,2.0
+"Iisalmi","2017",120,-1,240,-11,2.0,2.0
+"Iisalmi","2018",110,-13,230,-4,2.1,2.0
+"Iisalmi","2019",.,.,.,.,.,.
+"Iisalmi","2020",110,..,500,..,4.5,5.0
+"Iisalmi","2021",.,.,.,.,.,.
+"Iisalmi","2022",.,.,.,.,.,.
+"Iisalmi","2023",.,.,.,.,.,.
+"Iitti","2012",.,.,.,.,.,.
+"Iitti","2013",.,.,.,.,.,.
+"Iitti","2014",.,.,.,.,.,.
+"Iitti","2015",.,.,.,.,.,.
+"Iitti","2016",.,.,.,.,.,.
+"Iitti","2017",.,.,.,.,.,.
+"Iitti","2018",.,.,.,.,.,.
+"Iitti","2019",.,.,.,.,.,.
+"Iitti","2020",.,.,.,.,.,.
+"Iitti","2021",130,..,460,..,3.5,2.0
+"Iitti","2022",.,.,.,.,.,.
+"Iitti","2023",.,.,.,.,.,.
+"Ikaalinen","2012",120,..,310,..,2.6,2.0
+"Ikaalinen","2013",130,15,360,18,2.8,2.0
+"Ikaalinen","2014",110,-19,300,-18,2.7,2.0
+"Ikaalinen","2015",100,-2,220,-26,2.2,2.0
+"Ikaalinen","2016",100,-7,260,16,2.6,2.0
+"Ikaalinen","2017",100,-1,310,21,3.1,2.0
+"Ikaalinen","2018",100,8,290,-7,2.9,2.0
+"Ikaalinen","2019",.,.,.,.,.,.
+"Ikaalinen","2020",.,.,.,.,.,.
+"Ikaalinen","2021",100,..,210,..,2.1,2.0
+"Ikaalinen","2022",.,.,.,.,.,.
+"Ikaalinen","2023",.,.,.,.,.,.
+"Imatra","2012",150,..,350,..,2.3,2.0
+"Imatra","2013",210,38,500,41,2.4,2.0
+"Imatra","2014",130,-37,310,-39,2.4,2.0
+"Imatra","2015",140,8,350,15,2.5,2.0
+"Imatra","2016",130,-8,300,-16,2.3,2.0
+"Imatra","2017",160,20,550,84,3.4,3.0
+"Imatra","2018",110,-29,330,-40,3.0,2.5
+"Imatra","2019",230,103,540,63,2.3,2.0
+"Imatra","2020",110,-50,350,-36,3.2,2.0
+"Imatra","2021",110,0,310,-10,2.8,3.0
+"Imatra","2022",130,12,350,11,2.7,2.0
+"Imatra","2023",100,-22,430,24,4.3,2.5
+"Inari","2012",200,..,1190,..,6.0,5.0
+"Inari","2013",160,-21,1020,-14,6.4,6.0
+"Inari","2014",200,27,1110,8,5.6,5.0
+"Inari","2015",170,-15,1170,6,6.9,6.0
+"Inari","2016",220,27,1340,14,6.1,5.0
+"Inari","2017",180,-19,1160,-13,6.4,6.0
+"Inari","2018",210,16,1330,15,6.3,6.0
+"Inari","2019",230,10,1190,-11,5.2,6.0
+"Inari","2020",240,6,1460,23,6.1,5.0
+"Inari","2021",220,-9,1900,30,8.6,7.0
+"Inari","2022",220,1,1430,-25,6.5,5.0
+"Inari","2023",140,-37,910,-36,6.5,6.0
+"Janakkala","2012",.,.,.,.,.,.
+"Janakkala","2013",.,.,.,.,.,.
+"Janakkala","2014",.,.,.,.,.,.
+"Janakkala","2015",.,.,.,.,.,.
+"Janakkala","2016",.,.,.,.,.,.
+"Janakkala","2017",.,.,.,.,.,.
+"Janakkala","2018",.,.,.,.,.,.
+"Janakkala","2019",.,.,.,.,.,.
+"Janakkala","2020",.,.,.,.,.,.
+"Janakkala","2021",120,..,390,..,3.3,2.0
+"Janakkala","2022",.,.,.,.,.,.
+"Janakkala","2023",.,.,.,.,.,.
+"Joensuu","2012",440,..,1380,..,3.1,2.0
+"Joensuu","2013",420,-4,1140,-17,2.7,2.0
+"Joensuu","2014",390,-5,1310,14,3.4,2.0
+"Joensuu","2015",290,-27,860,-34,3.0,2.0
+"Joensuu","2016",350,22,1180,37,3.4,2.0
+"Joensuu","2017",350,1,1140,-3,3.3,2.0
+"Joensuu","2018",350,-2,920,-19,2.6,2.0
+"Joensuu","2019",340,-2,1050,14,3.1,2.5
+"Joensuu","2020",410,22,1450,38,3.5,2.0
+"Joensuu","2021",330,-20,1490,3,4.5,4.0
+"Joensuu","2022",310,-6,1080,-27,3.5,2.0
+"Joensuu","2023",190,-40,840,-22,4.4,3.0
+"Joutsa","2012",120,..,440,..,3.7,3.0
+"Joutsa","2013",.,.,.,.,.,.
+"Joutsa","2014",.,.,.,.,.,.
+"Joutsa","2015",.,.,.,.,.,.
+"Joutsa","2016",.,.,.,.,.,.
+"Joutsa","2017",.,.,.,.,.,.
+"Joutsa","2018",110,..,440,..,4.0,2.0
+"Joutsa","2019",.,.,.,.,.,.
+"Joutsa","2020",.,.,.,.,.,.
+"Joutsa","2021",.,.,.,.,.,.
+"Joutsa","2022",100,..,330,..,3.3,2.0
+"Joutsa","2023",.,.,.,.,.,.
+"Jyväskylä","2012",700,..,1680,..,2.4,2.0
+"Jyväskylä","2013",690,0,1750,4,2.5,2.0
+"Jyväskylä","2014",930,34,2110,21,2.3,2.0
+"Jyväskylä","2015",740,-20,1800,-15,2.4,2.0
+"Jyväskylä","2016",880,18,1970,10,2.2,2.0
+"Jyväskylä","2017",770,-12,1500,-24,1.9,2.0
+"Jyväskylä","2018",670,-13,1510,0,2.3,2.0
+"Jyväskylä","2019",650,-3,1410,-6,2.2,2.0
+"Jyväskylä","2020",520,-20,1850,31,3.6,2.0
+"Jyväskylä","2021",700,33,1790,-3,2.6,2.0
+"Jyväskylä","2022",480,-31,1140,-36,2.4,2.0
+"Jyväskylä","2023",350,-27,820,-28,2.3,2.0
+"Jämsä","2012",200,..,490,..,2.5,2.0
+"Jämsä","2013",280,38,670,37,2.4,2.0
+"Jämsä","2014",190,-32,420,-37,2.2,2.0
+"Jämsä","2015",250,33,720,71,2.9,2.0
+"Jämsä","2016",180,-26,500,-30,2.8,2.0
+"Jämsä","2017",170,-9,460,-7,2.7,2.0
+"Jämsä","2018",210,26,580,24,2.8,2.0
+"Jämsä","2019",220,6,1010,75,4.6,2.0
+"Jämsä","2020",190,-14,590,-41,3.1,2.0
+"Jämsä","2021",300,55,990,66,3.3,2.0
+"Jämsä","2022",240,-19,1150,16,4.8,2.5
+"Jämsä","2023",190,-21,490,-57,2.6,2.0
+"Kajaani","2012",230,..,630,..,2.7,2.0
+"Kajaani","2013",170,-26,550,-12,3.2,2.0
+"Kajaani","2014",190,12,700,27,3.7,2.0
+"Kajaani","2015",170,-8,500,-28,2.9,2.0
+"Kajaani","2016",170,1,810,61,4.8,3.0
+"Kajaani","2017",210,18,570,-30,2.7,2.0
+"Kajaani","2018",190,-10,700,24,3.7,3.0
+"Kajaani","2019",100,-48,340,-51,3.4,2.0
+"Kajaani","2020",160,67,500,45,3.1,2.0
+"Kajaani","2021",110,-29,420,-15,3.8,3.0
+"Kajaani","2022",.,.,.,.,.,.
+"Kajaani","2023",.,.,.,.,.,.
+"Kalajoki","2012",130,..,370,..,2.8,2.0
+"Kalajoki","2013",110,-16,310,-16,2.8,2.0
+"Kalajoki","2014",110,0,330,5,3.0,2.5
+"Kalajoki","2015",160,36,400,23,2.5,2.0
+"Kalajoki","2016",150,-2,430,8,2.9,2.0
+"Kalajoki","2017",150,-4,370,-15,2.5,2.0
+"Kalajoki","2018",130,-9,380,3,2.9,2.0
+"Kalajoki","2019",120,-8,320,-17,2.7,2.0
+"Kalajoki","2020",120,-6,450,43,3.8,2.0
+"Kalajoki","2021",200,74,550,22,2.8,2.0
+"Kalajoki","2022",150,-26,720,30,4.8,2.0
+"Kalajoki","2023",.,.,.,.,.,.
+"Kangasala","2012",.,.,.,.,.,.
+"Kangasala","2013",110,..,400,..,3.6,2.0
+"Kangasala","2014",.,.,.,.,.,.
+"Kangasala","2015",.,.,.,.,.,.
+"Kangasala","2016",.,.,.,.,.,.
+"Kangasala","2017",.,.,.,.,.,.
+"Kangasala","2018",.,.,.,.,.,.
+"Kangasala","2019",100,..,280,..,2.8,2.0
+"Kangasala","2020",.,.,.,.,.,.
+"Kangasala","2021",160,..,510,..,3.2,2.0
+"Kangasala","2022",120,-22,330,-36,2.8,2.0
+"Kangasala","2023",.,.,.,.,.,.
+"Kangasniemi","2012",120,..,340,..,2.8,3.0
+"Kangasniemi","2013",.,.,.,.,.,.
+"Kangasniemi","2014",.,.,.,.,.,.
+"Kangasniemi","2015",.,.,.,.,.,.
+"Kangasniemi","2016",.,.,.,.,.,.
+"Kangasniemi","2017",.,.,.,.,.,.
+"Kangasniemi","2018",100,..,350,..,3.5,3.0
+"Kangasniemi","2019",.,.,.,.,.,.
+"Kangasniemi","2020",.,.,.,.,.,.
+"Kangasniemi","2021",130,..,490,..,3.8,3.0
+"Kangasniemi","2022",120,-12,380,-21,3.2,2.0
+"Kangasniemi","2023",.,.,.,.,.,.
+"Kankaanpää","2012",110,..,280,..,2.5,2.0
+"Kankaanpää","2013",.,.,.,.,.,.
+"Kankaanpää","2014",.,.,.,.,.,.
+"Kankaanpää","2015",.,.,.,.,.,.
+"Kankaanpää","2016",.,.,.,.,.,.
+"Kankaanpää","2017",.,.,.,.,.,.
+"Kankaanpää","2018",.,.,.,.,.,.
+"Kankaanpää","2019",.,.,.,.,.,.
+"Kankaanpää","2020",.,.,.,.,.,.
+"Kankaanpää","2021",110,..,300,..,2.7,3.0
+"Kankaanpää","2022",.,.,.,.,.,.
+"Kankaanpää","2023",.,.,.,.,.,.
+"Kauhava","2012",110,..,230,..,2.1,2.0
+"Kauhava","2013",130,10,340,46,2.6,2.0
+"Kauhava","2014",.,.,.,.,.,.
+"Kauhava","2015",110,..,280,..,2.5,2.0
+"Kauhava","2016",100,-6,210,-24,2.1,2.0
+"Kauhava","2017",120,21,250,15,2.1,2.0
+"Kauhava","2018",.,.,.,.,.,.
+"Kauhava","2019",.,.,.,.,.,.
+"Kauhava","2020",.,.,.,.,.,.
+"Kauhava","2021",.,.,.,.,.,.
+"Kauhava","2022",.,.,.,.,.,.
+"Kauhava","2023",.,.,.,.,.,.
+"Kemi","2012",.,.,.,.,.,.
+"Kemi","2013",.,.,.,.,.,.
+"Kemi","2014",.,.,.,.,.,.
+"Kemi","2015",.,.,.,.,.,.
+"Kemi","2016",.,.,.,.,.,.
+"Kemi","2017",.,.,.,.,.,.
+"Kemi","2018",.,.,.,.,.,.
+"Kemi","2019",100,..,310,..,3.1,2.0
+"Kemi","2020",.,.,.,.,.,.
+"Kemi","2021",.,.,.,.,.,.
+"Kemi","2022",.,.,.,.,.,.
+"Kemi","2023",.,.,.,.,.,.
+"Kemijärvi","2012",.,.,.,.,.,.
+"Kemijärvi","2013",.,.,.,.,.,.
+"Kemijärvi","2014",.,.,.,.,.,.
+"Kemijärvi","2015",.,.,.,.,.,.
+"Kemijärvi","2016",.,.,.,.,.,.
+"Kemijärvi","2017",.,.,.,.,.,.
+"Kemijärvi","2018",.,.,.,.,.,.
+"Kemijärvi","2019",.,.,.,.,.,.
+"Kemijärvi","2020",.,.,.,.,.,.
+"Kemijärvi","2021",110,..,560,..,5.1,4.0
+"Kemijärvi","2022",.,.,.,.,.,.
+"Kemijärvi","2023",.,.,.,.,.,.
+"Kemiönsaari","2012",.,.,.,.,.,.
+"Kemiönsaari","2013",100,..,280,..,2.8,2.0
+"Kemiönsaari","2014",.,.,.,.,.,.
+"Kemiönsaari","2015",.,.,.,.,.,.
+"Kemiönsaari","2016",.,.,.,.,.,.
+"Kemiönsaari","2017",120,..,310,..,2.6,2.0
+"Kemiönsaari","2018",100,-18,290,-6,2.9,2.5
+"Kemiönsaari","2019",120,21,310,6,2.6,2.0
+"Kemiönsaari","2020",140,15,610,98,4.4,2.0
+"Kemiönsaari","2021",220,64,640,5,2.9,2.0
+"Kemiönsaari","2022",130,-41,500,-23,3.8,2.0
+"Kemiönsaari","2023",140,3,500,1,3.6,2.0
+"Keuruu","2012",.,.,.,.,.,.
+"Keuruu","2013",110,..,320,..,2.9,2.0
+"Keuruu","2014",.,.,.,.,.,.
+"Keuruu","2015",110,..,370,..,3.4,2.0
+"Keuruu","2016",.,.,.,.,.,.
+"Keuruu","2017",100,..,280,..,2.8,2.0
+"Keuruu","2018",.,.,.,.,.,.
+"Keuruu","2019",120,..,470,..,3.9,2.0
+"Keuruu","2020",.,.,.,.,.,.
+"Keuruu","2021",110,..,380,..,3.5,3.0
+"Keuruu","2022",.,.,.,.,.,.
+"Keuruu","2023",.,.,.,.,.,.
+"Kirkkonummi","2012",110,..,290,..,2.6,2.0
+"Kirkkonummi","2013",110,0,240,-16,2.2,2.0
+"Kirkkonummi","2014",.,.,.,.,.,.
+"Kirkkonummi","2015",.,.,.,.,.,.
+"Kirkkonummi","2016",.,.,.,.,.,.
+"Kirkkonummi","2017",.,.,.,.,.,.
+"Kirkkonummi","2018",120,..,200,..,1.7,1.0
+"Kirkkonummi","2019",.,.,.,.,.,.
+"Kirkkonummi","2020",.,.,.,.,.,.
+"Kirkkonummi","2021",110,..,300,..,2.7,2.0
+"Kirkkonummi","2022",100,-8,860,185,8.6,2.0
+"Kirkkonummi","2023",.,.,.,.,.,.
+"Kitee","2012",100,..,290,..,2.9,3.0
+"Kitee","2013",140,50,670,130,4.8,2.0
+"Kitee","2014",.,.,.,.,.,.
+"Kitee","2015",.,.,.,.,.,.
+"Kitee","2016",.,.,.,.,.,.
+"Kitee","2017",.,.,.,.,.,.
+"Kitee","2018",.,.,.,.,.,.
+"Kitee","2019",.,.,.,.,.,.
+"Kitee","2020",.,.,.,.,.,.
+"Kitee","2021",.,.,.,.,.,.
+"Kitee","2022",.,.,.,.,.,.
+"Kitee","2023",.,.,.,.,.,.
+"Kittilä","2012",300,..,1420,..,4.7,5.0
+"Kittilä","2013",270,-10,1460,3,5.4,5.0
+"Kittilä","2014",280,6,1400,-5,5.0,5.0
+"Kittilä","2015",270,-6,1320,-5,4.9,5.0
+"Kittilä","2016",230,-15,1270,-4,5.5,5.0
+"Kittilä","2017",290,28,1360,7,4.7,4.0
+"Kittilä","2018",290,-2,1370,1,4.7,4.0
+"Kittilä","2019",290,2,1380,0,4.8,4.5
+"Kittilä","2020",240,-19,1270,-8,5.3,5.0
+"Kittilä","2021",290,21,1520,20,5.2,5.0
+"Kittilä","2022",340,18,1980,31,5.8,5.5
+"Kittilä","2023",200,-41,1100,-45,5.5,6.0
+"Kokkola","2012",190,..,540,..,2.8,2.0
+"Kokkola","2013",200,2,440,-20,2.2,2.0
+"Kokkola","2014",170,-15,430,-2,2.5,2.0
+"Kokkola","2015",150,-7,350,-18,2.3,2.0
+"Kokkola","2016",150,-1,380,7,2.5,2.0
+"Kokkola","2017",200,30,490,31,2.5,2.0
+"Kokkola","2018",190,-6,620,26,3.3,2.0
+"Kokkola","2019",280,52,790,26,2.8,2.5
+"Kokkola","2020",110,-63,380,-51,3.5,2.5
+"Kokkola","2021",210,100,760,97,3.6,2.0
+"Kokkola","2022",180,-16,530,-30,2.9,3.0
+"Kokkola","2023",100,-44,320,-39,3.2,2.0
+"Kolari","2012",200,.,1230,.,6.2,5.0
+"Kolari","2013",220,8,1320,7,6.0,6.0
+"Kolari","2014",200,-8,1090,-18,5.5,6.0
+"Kolari","2015",180,-11,1130,4,6.3,6.5
+"Kolari","2016",220,23,1290,15,5.9,5.0
+"Kolari","2017",230,6,1410,9,6.1,6.0
+"Kolari","2018",250,6,1610,14,6.4,6.0
+"Kolari","2019",170,-33,1070,-33,6.3,6.0
+"Kolari","2020",250,51,1510,40,6.0,6.0
+"Kolari","2021",210,-18,1420,-6,6.8,7.0
+"Kolari","2022",160,-22,1100,-23,6.9,7.0
+"Kolari","2023",130,-21,780,-29,6.0,7.0
+"Kotka","2012",220,..,510,..,2.3,2.0
+"Kotka","2013",210,-5,550,8,2.6,2.0
+"Kotka","2014",160,-23,500,-8,3.1,2.0
+"Kotka","2015",140,-10,380,-24,2.7,2.0
+"Kotka","2016",180,22,410,9,2.3,2.0
+"Kotka","2017",200,11,530,28,2.7,2.0
+"Kotka","2018",180,-11,360,-31,2.0,2.0
+"Kotka","2019",140,-18,330,-10,2.4,2.0
+"Kotka","2020",100,-30,210,-35,2.1,2.0
+"Kotka","2021",260,155,820,283,3.2,2.0
+"Kotka","2022",180,-28,630,-23,3.5,2.0
+"Kotka","2023",110,-40,210,-67,1.9,2.0
+"Kouvola","2012",330,.,780,.,2.4,2.0
+"Kouvola","2013",350,6,990,27,2.8,2.0
+"Kouvola","2014",330,-6,830,-16,2.5,2.0
+"Kouvola","2015",310,-6,820,0,2.6,2.0
+"Kouvola","2016",400,28,1020,24,2.6,2.0
+"Kouvola","2017",390,-1,890,-13,2.3,2.0
+"Kouvola","2018",380,-3,1020,14,2.7,2.0
+"Kouvola","2019",400,6,950,-7,2.4,2.0
+"Kouvola","2020",300,-26,1790,89,6.0,3.0
+"Kouvola","2021",350,17,1420,-20,4.1,2.0
+"Kouvola","2022",420,20,1240,-13,3.0,2.0
+"Kouvola","2023",210,-51,640,-49,3.0,2.0
+"Kuhmoinen","2012",.,.,.,.,.,.
+"Kuhmoinen","2013",.,.,.,.,.,.
+"Kuhmoinen","2014",.,.,.,.,.,.
+"Kuhmoinen","2015",.,.,.,.,.,.
+"Kuhmoinen","2016",.,.,.,.,.,.
+"Kuhmoinen","2017",.,.,.,.,.,.
+"Kuhmoinen","2018",.,.,.,.,.,.
+"Kuhmoinen","2019",.,.,.,.,.,.
+"Kuhmoinen","2020",.,.,.,.,.,.
+"Kuhmoinen","2021",100,..,400,..,4.0,3.0
+"Kuhmoinen","2022",.,.,.,.,.,.
+"Kuhmoinen","2023",.,.,.,.,.,.
+"Kuopio","2012",960,..,2580,..,2.7,2.0
+"Kuopio","2013",940,-2,2490,-3,2.6,2.0
+"Kuopio","2014",830,-12,2250,-10,2.7,2.0
+"Kuopio","2015",830,-1,2280,1,2.7,2.0
+"Kuopio","2016",900,10,2410,6,2.7,2.0
+"Kuopio","2017",850,-6,2450,2,2.9,2.0
+"Kuopio","2018",840,-1,2280,-7,2.7,2.0
+"Kuopio","2019",800,-4,2760,21,3.5,2.0
+"Kuopio","2020",610,-24,1800,-35,3.0,2.0
+"Kuopio","2021",770,27,2700,50,3.5,3.0
+"Kuopio","2022",760,-2,2480,-8,3.3,2.0
+"Kuopio","2023",400,-47,1500,-40,3.8,3.0
+"Kurikka","2012",110,..,330,..,3.0,2.0
+"Kurikka","2013",.,.,.,.,.,.
+"Kurikka","2014",.,.,.,.,.,.
+"Kurikka","2015",.,.,.,.,.,.
+"Kurikka","2016",100,..,300,..,3.0,2.0
+"Kurikka","2017",.,.,.,.,.,.
+"Kurikka","2018",.,.,.,.,.,.
+"Kurikka","2019",130,..,440,..,3.4,2.0
+"Kurikka","2020",.,.,.,.,.,.
+"Kurikka","2021",.,.,.,.,.,.
+"Kurikka","2022",.,.,.,.,.,.
+"Kurikka","2023",.,.,.,.,.,.
+"Kustavi","2012",.,.,.,.,.,.
+"Kustavi","2013",.,.,.,.,.,.
+"Kustavi","2014",.,.,.,.,.,.
+"Kustavi","2015",.,.,.,.,.,.
+"Kustavi","2016",.,.,.,.,.,.
+"Kustavi","2017",.,.,.,.,.,.
+"Kustavi","2018",.,.,.,.,.,.
+"Kustavi","2019",120,..,330,..,2.8,2.0
+"Kustavi","2020",.,.,.,.,.,.
+"Kustavi","2021",140,..,530,..,3.8,3.0
+"Kustavi","2022",.,.,.,.,.,.
+"Kustavi","2023",.,.,.,.,.,.
+"Kuusamo","2012",410,..,1600,..,3.9,3.0
+"Kuusamo","2013",400,-4,1660,4,4.2,3.0
+"Kuusamo","2014",430,10,1790,8,4.2,4.0
+"Kuusamo","2015",460,7,2180,22,4.7,4.0
+"Kuusamo","2016",560,21,2440,11,4.4,3.0
+"Kuusamo","2017",370,-34,1450,-40,3.9,3.0
+"Kuusamo","2018",470,27,1940,33,4.1,3.0
+"Kuusamo","2019",360,-24,1910,-2,5.3,6.0
+"Kuusamo","2020",370,3,1910,0,5.2,5.0
+"Kuusamo","2021",540,47,2810,48,5.2,5.0
+"Kuusamo","2022",390,-27,1860,-34,4.8,4.0
+"Kuusamo","2023",260,-35,1610,-13,6.2,5.0
+"Lahti","2012",450,.,940,.,2.1,2.0
+"Lahti","2013",520,14,1180,26,2.3,2.0
+"Lahti","2014",440,-15,880,-25,2.0,2.0
+"Lahti","2015",460,4,950,8,2.1,2.0
+"Lahti","2016",430,-7,770,-19,1.8,2.0
+"Lahti","2017",430,1,840,8,2.0,2.0
+"Lahti","2018",330,-24,610,-28,1.8,2.0
+"Lahti","2019",380,16,790,31,2.1,2.0
+"Lahti","2020",240,-37,830,5,3.5,2.0
+"Lahti","2021",320,33,640,-24,2.0,2.0
+"Lahti","2022",310,-1,760,19,2.5,2.0
+"Lahti","2023",190,-39,460,-39,2.4,2.0
+"Lappeenranta","2012",400,..,960,..,2.4,2.0
+"Lappeenranta","2013",360,-9,950,0,2.6,2.0
+"Lappeenranta","2014",300,-17,770,-19,2.6,2.0
+"Lappeenranta","2015",330,13,780,1,2.4,2.0
+"Lappeenranta","2016",390,17,890,14,2.3,2.0
+"Lappeenranta","2017",290,-25,870,-2,3.0,2.0
+"Lappeenranta","2018",440,50,1130,29,2.6,2.0
+"Lappeenranta","2019",390,-11,1130,0,2.9,2.0
+"Lappeenranta","2020",320,-17,1410,25,4.4,3.0
+"Lappeenranta","2021",370,13,1350,-4,3.6,2.0
+"Lappeenranta","2022",210,-42,700,-48,3.3,2.0
+"Lappeenranta","2023",190,-13,590,-17,3.1,2.0
+"Laukaa","2012",.,.,.,.,.,.
+"Laukaa","2013",.,.,.,.,.,.
+"Laukaa","2014",.,.,.,.,.,.
+"Laukaa","2015",.,.,.,.,.,.
+"Laukaa","2016",.,.,.,.,.,.
+"Laukaa","2017",.,.,.,.,.,.
+"Laukaa","2018",100,..,200,..,2.0,2.0
+"Laukaa","2019",100,7,220,12,2.2,2.0
+"Laukaa","2020",.,.,.,.,.,.
+"Laukaa","2021",110,..,390,..,3.5,2.0
+"Laukaa","2022",.,.,.,.,.,.
+"Laukaa","2023",.,.,.,.,.,.
+"Leppävirta","2012",.,.,.,.,.,.
+"Leppävirta","2013",.,.,.,.,.,.
+"Leppävirta","2014",.,.,.,.,.,.
+"Leppävirta","2015",.,.,.,.,.,.
+"Leppävirta","2016",.,.,.,.,.,.
+"Leppävirta","2017",.,.,.,.,.,.
+"Leppävirta","2018",.,.,.,.,.,.
+"Leppävirta","2019",.,.,.,.,.,.
+"Leppävirta","2020",110,..,430,..,3.9,2.0
+"Leppävirta","2021",.,.,.,.,.,.
+"Leppävirta","2022",.,.,.,.,.,.
+"Leppävirta","2023",.,.,.,.,.,.
+"Lieksa","2012",140,..,440,..,3.1,2.0
+"Lieksa","2013",130,-5,380,-14,2.9,2.0
+"Lieksa","2014",130,0,470,24,3.6,3.0
+"Lieksa","2015",.,.,.,.,.,.
+"Lieksa","2016",110,..,320,..,2.9,2.0
+"Lieksa","2017",150,43,610,87,4.1,2.0
+"Lieksa","2018",130,-15,510,-16,3.9,3.0
+"Lieksa","2019",140,10,530,4,3.8,3.0
+"Lieksa","2020",200,41,1120,109,5.6,4.0
+"Lieksa","2021",240,20,1120,0,4.7,4.0
+"Lieksa","2022",170,-32,660,-41,3.9,3.0
+"Lieksa","2023",130,-21,440,-33,3.4,2.0
+"Lohja","2012",200,..,490,..,2.5,2.0
+"Lohja","2013",230,12,450,-9,2.0,2.0
+"Lohja","2014",250,9,620,39,2.5,2.0
+"Lohja","2015",220,-13,540,-12,2.5,2.0
+"Lohja","2016",190,-13,460,-15,2.4,2.0
+"Lohja","2017",200,6,510,11,2.6,2.0
+"Lohja","2018",220,11,470,-9,2.1,2.0
+"Lohja","2019",200,-8,500,8,2.5,2.0
+"Lohja","2020",240,19,780,55,3.3,2.0
+"Lohja","2021",280,16,840,8,3.0,2.0
+"Lohja","2022",220,-21,620,-25,2.8,2.0
+"Lohja","2023",120,-45,330,-46,2.8,2.0
+"Loppi","2012",.,.,.,.,.,.
+"Loppi","2013",.,.,.,.,.,.
+"Loppi","2014",.,.,.,.,.,.
+"Loppi","2015",.,.,.,.,.,.
+"Loppi","2016",.,.,.,.,.,.
+"Loppi","2017",.,.,.,.,.,.
+"Loppi","2018",.,.,.,.,.,.
+"Loppi","2019",110,..,360,..,3.3,2.5
+"Loppi","2020",.,.,.,.,.,.
+"Loppi","2021",150,..,460,..,3.1,2.0
+"Loppi","2022",180,20,580,27,3.2,2.0
+"Loppi","2023",.,.,.,.,.,.
+"Loviisa","2012",130,..,380,..,2.9,2.0
+"Loviisa","2013",.,.,.,.,.,.
+"Loviisa","2014",.,.,.,.,.,.
+"Loviisa","2015",.,.,.,.,.,.
+"Loviisa","2016",100,..,170,..,1.7,2.0
+"Loviisa","2017",.,.,.,.,.,.
+"Loviisa","2018",120,..,350,..,2.9,2.0
+"Loviisa","2019",120,0,350,-2,2.9,2.0
+"Loviisa","2020",.,.,.,.,.,.
+"Loviisa","2021",110,..,330,..,3.0,2.0
+"Loviisa","2022",110,0,370,15,3.4,2.0
+"Loviisa","2023",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2012",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2013",110,..,580,..,5.3,3.0
+"Maarianhamina - Mariehamn","2014",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2015",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2016",100,..,450,..,4.5,3.0
+"Maarianhamina - Mariehamn","2017",130,27,650,45,5.0,3.0
+"Maarianhamina - Mariehamn","2018",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2019",100,..,210,..,2.1,2.0
+"Maarianhamina - Mariehamn","2020",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2021",170,..,870,..,5.1,4.0
+"Maarianhamina - Mariehamn","2022",.,.,.,.,.,.
+"Maarianhamina - Mariehamn","2023",.,.,.,.,.,.
+"Mikkeli","2012",390,..,990,..,2.5,2.0
+"Mikkeli","2013",460,17,1440,45,3.1,2.0
+"Mikkeli","2014",390,-16,1500,4,3.8,2.0
+"Mikkeli","2015",370,-5,1120,-25,3.0,2.0
+"Mikkeli","2016",390,7,1130,1,2.9,2.0
+"Mikkeli","2017",470,19,1190,5,2.5,2.0
+"Mikkeli","2018",390,-17,990,-17,2.5,2.0
+"Mikkeli","2019",490,26,1240,26,2.5,2.0
+"Mikkeli","2020",290,-40,850,-32,2.9,2.0
+"Mikkeli","2021",380,28,1260,48,3.3,2.0
+"Mikkeli","2022",410,8,1860,48,4.5,2.5
+"Mikkeli","2023",370,-9,1380,-26,3.7,2.0
+"Mäntsälä","2012",.,.,.,.,.,.
+"Mäntsälä","2013",.,.,.,.,.,.
+"Mäntsälä","2014",.,.,.,.,.,.
+"Mäntsälä","2015",.,.,.,.,.,.
+"Mäntsälä","2016",.,.,.,.,.,.
+"Mäntsälä","2017",.,.,.,.,.,.
+"Mäntsälä","2018",.,.,.,.,.,.
+"Mäntsälä","2019",.,.,.,.,.,.
+"Mäntsälä","2020",.,.,.,.,.,.
+"Mäntsälä","2021",110,..,280,..,2.5,2.0
+"Mäntsälä","2022",.,.,.,.,.,.
+"Mäntsälä","2023",.,.,.,.,.,.
+"Mänttä-Vilppula","2012",.,.,.,.,.,.
+"Mänttä-Vilppula","2013",.,.,.,.,.,.
+"Mänttä-Vilppula","2014",.,.,.,.,.,.
+"Mänttä-Vilppula","2015",.,.,.,.,.,.
+"Mänttä-Vilppula","2016",.,.,.,.,.,.
+"Mänttä-Vilppula","2017",120,..,350,..,2.9,2.0
+"Mänttä-Vilppula","2018",.,.,.,.,.,.
+"Mänttä-Vilppula","2019",.,.,.,.,.,.
+"Mänttä-Vilppula","2020",.,.,.,.,.,.
+"Mänttä-Vilppula","2021",110,..,370,..,3.4,2.0
+"Mänttä-Vilppula","2022",.,.,.,.,.,.
+"Mänttä-Vilppula","2023",.,.,.,.,.,.
+"Mäntyharju","2012",110,..,670,..,6.1,2.0
+"Mäntyharju","2013",120,14,460,-31,3.8,2.0
+"Mäntyharju","2014",120,0,560,21,4.7,2.0
+"Mäntyharju","2015",110,-5,410,-27,3.7,3.0
+"Mäntyharju","2016",.,.,.,.,.,.
+"Mäntyharju","2017",.,.,.,.,.,.
+"Mäntyharju","2018",.,.,.,.,.,.
+"Mäntyharju","2019",120,..,380,..,3.2,3.0
+"Mäntyharju","2020",130,5,480,27,3.7,2.0
+"Mäntyharju","2021",220,70,860,80,3.9,3.0
+"Mäntyharju","2022",220,0,880,3,4.0,4.0
+"Mäntyharju","2023",.,.,.,.,.,.
+"Naantali","2012",180,..,470,..,2.6,2.0
+"Naantali","2013",140,-23,310,-34,2.2,2.0
+"Naantali","2014",180,29,510,62,2.8,2.0
+"Naantali","2015",170,-4,470,-7,2.8,2.0
+"Naantali","2016",160,-8,380,-18,2.4,2.0
+"Naantali","2017",120,-26,280,-26,2.3,2.0
+"Naantali","2018",140,18,300,5,2.1,2.0
+"Naantali","2019",220,58,500,68,2.3,2.0
+"Naantali","2020",110,-48,400,-20,3.6,2.0
+"Naantali","2021",170,52,590,47,3.5,2.0
+"Naantali","2022",200,14,580,-2,2.9,2.0
+"Naantali","2023",.,.,.,.,.,.
+"Nokia","2012",110,..,210,..,1.9,2.0
+"Nokia","2013",.,.,.,.,.,.
+"Nokia","2014",.,.,.,.,.,.
+"Nokia","2015",.,.,.,.,.,.
+"Nokia","2016",140,..,320,..,2.3,1.0
+"Nokia","2017",.,.,.,.,.,.
+"Nokia","2018",.,.,.,.,.,.
+"Nokia","2019",.,.,.,.,.,.
+"Nokia","2020",.,.,.,.,.,.
+"Nokia","2021",.,.,.,.,.,.
+"Nokia","2022",.,.,.,.,.,.
+"Nokia","2023",.,.,.,.,.,.
+"Nurmes","2012",.,.,.,.,.,.
+"Nurmes","2013",.,.,.,.,.,.
+"Nurmes","2014",.,.,.,.,.,.
+"Nurmes","2015",100,..,310,..,3.1,2.5
+"Nurmes","2016",.,.,.,.,.,.
+"Nurmes","2017",.,.,.,.,.,.
+"Nurmes","2018",100,..,370,..,3.7,2.0
+"Nurmes","2019",100,-3,250,-32,2.5,2.0
+"Nurmes","2020",110,14,500,98,4.5,2.0
+"Nurmes","2021",.,.,.,.,.,.
+"Nurmes","2022",.,.,.,.,.,.
+"Nurmes","2023",.,.,.,.,.,.
+"Nurmijärvi","2012",110,..,290,..,2.6,2.0
+"Nurmijärvi","2013",.,.,.,.,.,.
+"Nurmijärvi","2014",.,.,.,.,.,.
+"Nurmijärvi","2015",.,.,.,.,.,.
+"Nurmijärvi","2016",120,..,300,..,2.5,2.0
+"Nurmijärvi","2017",.,.,.,.,.,.
+"Nurmijärvi","2018",.,.,.,.,.,.
+"Nurmijärvi","2019",.,.,.,.,.,.
+"Nurmijärvi","2020",.,.,.,.,.,.
+"Nurmijärvi","2021",110,..,260,..,2.4,2.5
+"Nurmijärvi","2022",.,.,.,.,.,.
+"Nurmijärvi","2023",.,.,.,.,.,.
+"Orivesi","2012",.,.,.,.,.,.
+"Orivesi","2013",.,.,.,.,.,.
+"Orivesi","2014",.,.,.,.,.,.
+"Orivesi","2015",100,..,240,..,2.4,2.0
+"Orivesi","2016",.,.,.,.,.,.
+"Orivesi","2017",.,.,.,.,.,.
+"Orivesi","2018",.,.,.,.,.,.
+"Orivesi","2019",.,.,.,.,.,.
+"Orivesi","2020",.,.,.,.,.,.
+"Orivesi","2021",110,..,300,..,2.7,2.0
+"Orivesi","2022",130,15,530,73,4.1,3.0
+"Orivesi","2023",.,.,.,.,.,.
+"Oulu","2012",830,..,2040,..,2.5,2.0
+"Oulu","2013",780,-6,1910,-6,2.4,2.0
+"Oulu","2014",760,-3,2050,8,2.7,2.0
+"Oulu","2015",790,4,1990,-3,2.5,2.0
+"Oulu","2016",840,6,2290,15,2.7,2.0
+"Oulu","2017",810,-4,2090,-9,2.6,2.0
+"Oulu","2018",820,1,2100,1,2.6,2.0
+"Oulu","2019",820,1,2310,10,2.8,2.0
+"Oulu","2020",410,-50,1570,-32,3.8,2.0
+"Oulu","2021",570,40,1900,21,3.3,2.0
+"Oulu","2022",550,-3,1500,-21,2.7,2.0
+"Oulu","2023",330,-40,860,-42,2.6,2.0
+"Padasjoki","2012",.,.,.,.,.,.
+"Padasjoki","2013",120,..,410,..,3.4,2.0
+"Padasjoki","2014",.,.,.,.,.,.
+"Padasjoki","2015",.,.,.,.,.,.
+"Padasjoki","2016",.,.,.,.,.,.
+"Padasjoki","2017",.,.,.,.,.,.
+"Padasjoki","2018",.,.,.,.,.,.
+"Padasjoki","2019",.,.,.,.,.,.
+"Padasjoki","2020",.,.,.,.,.,.
+"Padasjoki","2021",130,..,440,..,3.4,3.0
+"Padasjoki","2022",110,-20,260,-41,2.4,2.0
+"Padasjoki","2023",.,.,.,.,.,.
+"Parainen","2012",210,.,610,.,2.9,2.0
+"Parainen","2013",240,16,740,22,3.1,2.0
+"Parainen","2014",170,-29,670,-9,3.9,3.0
+"Parainen","2015",160,-10,470,-30,2.9,2.0
+"Parainen","2016",180,17,780,66,4.3,3.0
+"Parainen","2017",150,-16,450,-43,3.0,2.0
+"Parainen","2018",180,17,650,43,3.6,2.5
+"Parainen","2019",180,-2,750,16,4.2,3.0
+"Parainen","2020",240,36,1350,81,5.6,3.0
+"Parainen","2021",310,29,1870,38,6.0,3.0
+"Parainen","2022",240,-23,1290,-31,5.4,3.0
+"Parainen","2023",180,-25,590,-54,3.3,2.0
+"Pieksämäki","2012",.,.,.,.,.,.
+"Pieksämäki","2013",100,..,220,..,2.2,2.0
+"Pieksämäki","2014",130,30,770,246,5.9,2.0
+"Pieksämäki","2015",.,.,.,.,.,.
+"Pieksämäki","2016",120,..,310,..,2.6,2.0
+"Pieksämäki","2017",110,-9,360,16,3.3,2.0
+"Pieksämäki","2018",150,42,350,-4,2.3,2.0
+"Pieksämäki","2019",100,-34,260,-26,2.6,2.0
+"Pieksämäki","2020",110,6,560,117,5.1,3.0
+"Pieksämäki","2021",100,-1,260,-54,2.6,2.0
+"Pieksämäki","2022",100,-3,630,147,6.3,2.0
+"Pieksämäki","2023",.,.,.,.,.,.
+"Pori","2012",310,..,730,..,2.4,2.0
+"Pori","2013",320,4,750,3,2.3,2.0
+"Pori","2014",420,34,960,29,2.3,2.0
+"Pori","2015",350,-19,710,-26,2.0,2.0
+"Pori","2016",320,-9,1050,48,3.3,2.0
+"Pori","2017",360,15,860,-18,2.4,2.0
+"Pori","2018",500,37,1280,49,2.6,2.0
+"Pori","2019",280,-43,540,-58,1.9,2.0
+"Pori","2020",280,0,1020,90,3.6,2.0
+"Pori","2021",310,10,980,-4,3.2,2.0
+"Pori","2022",220,-30,540,-45,2.5,2.0
+"Pori","2023",230,3,510,-5,2.2,2.0
+"Porvoo","2012",180,..,310,..,1.7,2.0
+"Porvoo","2013",170,-1,360,17,2.1,2.0
+"Porvoo","2014",180,3,410,12,2.3,2.0
+"Porvoo","2015",180,2,400,-3,2.2,2.0
+"Porvoo","2016",160,-15,320,-19,2.0,2.0
+"Porvoo","2017",220,39,480,49,2.2,1.5
+"Porvoo","2018",250,17,540,11,2.2,2.0
+"Porvoo","2019",220,-14,520,-3,2.4,2.0
+"Porvoo","2020",210,-5,1290,147,6.1,2.0
+"Porvoo","2021",300,45,730,-43,2.4,2.0
+"Porvoo","2022",260,-13,620,-15,2.4,1.5
+"Porvoo","2023",140,-44,350,-43,2.5,2.0
+"Pudasjärvi","2012",140,..,470,..,3.4,2.0
+"Pudasjärvi","2013",210,48,660,40,3.1,2.0
+"Pudasjärvi","2014",160,-23,510,-22,3.2,2.0
+"Pudasjärvi","2015",160,0,670,31,4.2,3.0
+"Pudasjärvi","2016",190,20,680,2,3.6,2.0
+"Pudasjärvi","2017",170,-14,510,-26,3.0,2.5
+"Pudasjärvi","2018",200,18,610,20,3.1,2.0
+"Pudasjärvi","2019",120,-39,390,-37,3.3,2.0
+"Pudasjärvi","2020",180,48,960,147,5.3,2.0
+"Pudasjärvi","2021",110,-39,450,-53,4.1,3.5
+"Pudasjärvi","2022",180,67,670,49,3.7,3.0
+"Pudasjärvi","2023",.,.,.,.,.,.
+"Puumala","2012",.,.,.,.,.,.
+"Puumala","2013",.,.,.,.,.,.
+"Puumala","2014",110,..,460,..,4.2,2.0
+"Puumala","2015",.,.,.,.,.,.
+"Puumala","2016",110,..,470,..,4.3,3.0
+"Puumala","2017",.,.,.,.,.,.
+"Puumala","2018",.,.,.,.,.,.
+"Puumala","2019",.,.,.,.,.,.
+"Puumala","2020",100,..,750,..,7.5,3.0
+"Puumala","2021",110,11,610,-18,5.5,5.0
+"Puumala","2022",120,5,490,-19,4.1,3.0
+"Puumala","2023",.,.,.,.,.,.
+"Pälkäne","2012",130,..,360,..,2.8,3.0
+"Pälkäne","2013",.,.,.,.,.,.
+"Pälkäne","2014",.,.,.,.,.,.
+"Pälkäne","2015",.,.,.,.,.,.
+"Pälkäne","2016",.,.,.,.,.,.
+"Pälkäne","2017",.,.,.,.,.,.
+"Pälkäne","2018",.,.,.,.,.,.
+"Pälkäne","2019",.,.,.,.,.,.
+"Pälkäne","2020",110,..,300,..,2.7,3.0
+"Pälkäne","2021",160,47,410,37,2.6,2.0
+"Pälkäne","2022",120,-24,290,-30,2.4,2.0
+"Pälkäne","2023",.,.,.,.,.,.
+"Raahe","2012",.,.,.,.,.,.
+"Raahe","2013",.,.,.,.,.,.
+"Raahe","2014",.,.,.,.,.,.
+"Raahe","2015",.,.,.,.,.,.
+"Raahe","2016",.,.,.,.,.,.
+"Raahe","2017",110,..,200,..,1.8,2.0
+"Raahe","2018",.,.,.,.,.,.
+"Raahe","2019",.,.,.,.,.,.
+"Raahe","2020",.,.,.,.,.,.
+"Raahe","2021",.,.,.,.,.,.
+"Raahe","2022",.,.,.,.,.,.
+"Raahe","2023",.,.,.,.,.,.
+"Raasepori","2012",250,..,680,..,2.7,2.0
+"Raasepori","2013",220,-15,690,2,3.1,2.0
+"Raasepori","2014",210,-5,610,-12,2.9,2.0
+"Raasepori","2015",190,-6,520,-15,2.7,2.0
+"Raasepori","2016",160,-19,350,-32,2.2,2.0
+"Raasepori","2017",250,60,490,41,2.0,2.0
+"Raasepori","2018",210,-17,530,7,2.5,2.0
+"Raasepori","2019",240,17,1050,99,4.4,3.0
+"Raasepori","2020",270,9,1030,-2,3.8,2.0
+"Raasepori","2021",290,7,960,-7,3.3,2.0
+"Raasepori","2022",310,8,1000,4,3.2,2.0
+"Raasepori","2023",150,-52,410,-59,2.7,2.0
+"Rantasalmi","2012",.,.,.,.,.,.
+"Rantasalmi","2013",.,.,.,.,.,.
+"Rantasalmi","2014",.,.,.,.,.,.
+"Rantasalmi","2015",.,.,.,.,.,.
+"Rantasalmi","2016",.,.,.,.,.,.
+"Rantasalmi","2017",.,.,.,.,.,.
+"Rantasalmi","2018",.,.,.,.,.,.
+"Rantasalmi","2019",.,.,.,.,.,.
+"Rantasalmi","2020",100,..,280,..,2.8,2.0
+"Rantasalmi","2021",.,.,.,.,.,.
+"Rantasalmi","2022",.,.,.,.,.,.
+"Rantasalmi","2023",.,.,.,.,.,.
+"Rauma","2012",190,..,490,..,2.6,2.0
+"Rauma","2013",150,-20,400,-19,2.7,2.0
+"Rauma","2014",150,1,400,1,2.7,2.0
+"Rauma","2015",130,-15,280,-31,2.2,2.0
+"Rauma","2016",180,38,450,62,2.5,2.0
+"Rauma","2017",210,15,470,5,2.2,2.0
+"Rauma","2018",130,-38,350,-26,2.7,2.0
+"Rauma","2019",150,15,300,-14,2.0,2.0
+"Rauma","2020",.,.,.,.,.,.
+"Rauma","2021",190,..,560,..,2.9,2.0
+"Rauma","2022",150,-21,430,-23,2.9,2.0
+"Rauma","2023",.,.,.,.,.,.
+"Riihimäki","2012",.,.,.,.,.,.
+"Riihimäki","2013",.,.,.,.,.,.
+"Riihimäki","2014",.,.,.,.,.,.
+"Riihimäki","2015",.,.,.,.,.,.
+"Riihimäki","2016",.,.,.,.,.,.
+"Riihimäki","2017",.,.,.,.,.,.
+"Riihimäki","2018",.,.,.,.,.,.
+"Riihimäki","2019",100,..,170,..,1.7,2.0
+"Riihimäki","2020",.,.,.,.,.,.
+"Riihimäki","2021",.,.,.,.,.,.
+"Riihimäki","2022",.,.,.,.,.,.
+"Riihimäki","2023",.,.,.,.,.,.
+"Rovaniemi","2012",330,..,1060,..,3.2,2.0
+"Rovaniemi","2013",340,5,1400,32,4.1,2.0
+"Rovaniemi","2014",370,8,1270,-9,3.4,2.0
+"Rovaniemi","2015",330,-11,990,-21,3.0,2.0
+"Rovaniemi","2016",290,-11,860,-13,3.0,2.0
+"Rovaniemi","2017",320,10,1060,23,3.3,2.0
+"Rovaniemi","2018",370,15,1070,1,2.9,2.0
+"Rovaniemi","2019",300,-19,940,-12,3.1,3.0
+"Rovaniemi","2020",190,-37,750,-20,3.9,3.0
+"Rovaniemi","2021",250,29,1340,77,5.4,3.0
+"Rovaniemi","2022",270,9,1120,-16,4.1,3.0
+"Rovaniemi","2023",160,-39,540,-52,3.4,2.0
+"Ruokolahti","2012",.,.,.,.,.,.
+"Ruokolahti","2013",.,.,.,.,.,.
+"Ruokolahti","2014",.,.,.,.,.,.
+"Ruokolahti","2015",.,.,.,.,.,.
+"Ruokolahti","2016",.,.,.,.,.,.
+"Ruokolahti","2017",.,.,.,.,.,.
+"Ruokolahti","2018",.,.,.,.,.,.
+"Ruokolahti","2019",.,.,.,.,.,.
+"Ruokolahti","2020",130,..,530,..,4.1,3.0
+"Ruokolahti","2021",.,.,.,.,.,.
+"Ruokolahti","2022",.,.,.,.,.,.
+"Ruokolahti","2023",.,.,.,.,.,.
+"Ruovesi","2012",.,.,.,.,.,.
+"Ruovesi","2013",.,.,.,.,.,.
+"Ruovesi","2014",.,.,.,.,.,.
+"Ruovesi","2015",.,.,.,.,.,.
+"Ruovesi","2016",.,.,.,.,.,.
+"Ruovesi","2017",100,..,250,..,2.5,2.0
+"Ruovesi","2018",.,.,.,.,.,.
+"Ruovesi","2019",.,.,.,.,.,.
+"Ruovesi","2020",.,.,.,.,.,.
+"Ruovesi","2021",.,.,.,.,.,.
+"Ruovesi","2022",.,.,.,.,.,.
+"Ruovesi","2023",.,.,.,.,.,.
+"Saarijärvi","2012",.,.,.,.,.,.
+"Saarijärvi","2013",100,..,300,..,3.0,2.0
+"Saarijärvi","2014",.,.,.,.,.,.
+"Saarijärvi","2015",100,..,300,..,3.0,2.0
+"Saarijärvi","2016",.,.,.,.,.,.
+"Saarijärvi","2017",.,.,.,.,.,.
+"Saarijärvi","2018",.,.,.,.,.,.
+"Saarijärvi","2019",.,.,.,.,.,.
+"Saarijärvi","2020",.,.,.,.,.,.
+"Saarijärvi","2021",.,.,.,.,.,.
+"Saarijärvi","2022",.,.,.,.,.,.
+"Saarijärvi","2023",.,.,.,.,.,.
+"Salo","2012",250,..,720,..,2.9,2.0
+"Salo","2013",230,-8,580,-20,2.5,2.0
+"Salo","2014",190,-17,530,-8,2.8,2.0
+"Salo","2015",200,1,540,0,2.7,2.0
+"Salo","2016",180,-9,480,-11,2.7,2.0
+"Salo","2017",260,45,710,49,2.7,2.0
+"Salo","2018",190,-27,410,-42,2.2,2.0
+"Salo","2019",220,16,660,62,3.0,2.0
+"Salo","2020",350,60,920,38,2.6,2.0
+"Salo","2021",330,-7,1210,31,3.7,3.0
+"Salo","2022",280,-14,1020,-16,3.6,2.0
+"Salo","2023",170,-40,580,-43,3.4,2.0
+"Sastamala","2012",180,..,390,..,2.2,2.0
+"Sastamala","2013",110,-39,260,-34,2.4,2.0
+"Sastamala","2014",130,15,320,26,2.5,2.0
+"Sastamala","2015",140,14,290,-11,2.1,2.0
+"Sastamala","2016",100,-30,270,-6,2.7,2.0
+"Sastamala","2017",130,26,370,36,2.8,2.0
+"Sastamala","2018",120,-8,280,-25,2.3,2.0
+"Sastamala","2019",150,32,420,53,2.8,2.0
+"Sastamala","2020",140,-7,430,3,3.1,2.0
+"Sastamala","2021",110,-23,360,-18,3.3,3.0
+"Sastamala","2022",190,69,490,36,2.6,2.0
+"Sastamala","2023",.,.,.,.,.,.
+"Savitaipale","2012",.,.,.,.,.,.
+"Savitaipale","2013",.,.,.,.,.,.
+"Savitaipale","2014",.,.,.,.,.,.
+"Savitaipale","2015",.,.,.,.,.,.
+"Savitaipale","2016",.,.,.,.,.,.
+"Savitaipale","2017",.,.,.,.,.,.
+"Savitaipale","2018",.,.,.,.,.,.
+"Savitaipale","2019",.,.,.,.,.,.
+"Savitaipale","2020",.,.,.,.,.,.
+"Savitaipale","2021",100,..,260,..,2.6,3.0
+"Savitaipale","2022",110,6,380,44,3.5,3.0
+"Savitaipale","2023",.,.,.,.,.,.
+"Savonlinna","2012",270,..,960,..,3.6,2.0
+"Savonlinna","2013",410,49,1450,50,3.5,2.0
+"Savonlinna","2014",310,-25,810,-44,2.6,2.0
+"Savonlinna","2015",310,3,850,5,2.7,2.0
+"Savonlinna","2016",310,0,1150,35,3.7,3.0
+"Savonlinna","2017",320,3,950,-17,3.0,2.0
+"Savonlinna","2018",350,9,1100,16,3.1,2.0
+"Savonlinna","2019",310,-11,940,-15,3.0,3.0
+"Savonlinna","2020",270,-14,1480,57,5.5,3.0
+"Savonlinna","2021",320,17,1330,-10,4.2,3.0
+"Savonlinna","2022",290,-8,1130,-15,3.9,3.0
+"Savonlinna","2023",180,-38,520,-54,2.9,2.0
+"Seinäjoki","2012",280,..,740,..,2.6,2.0
+"Seinäjoki","2013",300,8,720,-3,2.4,2.0
+"Seinäjoki","2014",250,-17,580,-19,2.3,2.0
+"Seinäjoki","2015",310,22,800,38,2.6,2.0
+"Seinäjoki","2016",380,25,860,8,2.3,2.0
+"Seinäjoki","2017",290,-24,620,-28,2.1,2.0
+"Seinäjoki","2018",260,-10,500,-20,1.9,2.0
+"Seinäjoki","2019",290,9,620,25,2.1,2.0
+"Seinäjoki","2020",150,-46,320,-49,2.1,1.0
+"Seinäjoki","2021",220,42,680,114,3.1,2.0
+"Seinäjoki","2022",270,24,850,25,3.1,2.0
+"Seinäjoki","2023",160,-41,470,-45,2.9,2.0
+"Sodankylä","2012",.,.,.,.,.,.
+"Sodankylä","2013",110,..,530,..,4.8,3.0
+"Sodankylä","2014",.,.,.,.,.,.
+"Sodankylä","2015",.,.,.,.,.,.
+"Sodankylä","2016",.,.,.,.,.,.
+"Sodankylä","2017",.,.,.,.,.,.
+"Sodankylä","2018",.,.,.,.,.,.
+"Sodankylä","2019",.,.,.,.,.,.
+"Sodankylä","2020",.,.,.,.,.,.
+"Sodankylä","2021",.,.,.,.,.,.
+"Sodankylä","2022",.,.,.,.,.,.
+"Sodankylä","2023",.,.,.,.,.,.
+"Somero","2012",.,.,.,.,.,.
+"Somero","2013",.,.,.,.,.,.
+"Somero","2014",.,.,.,.,.,.
+"Somero","2015",.,.,.,.,.,.
+"Somero","2016",.,.,.,.,.,.
+"Somero","2017",.,.,.,.,.,.
+"Somero","2018",.,.,.,.,.,.
+"Somero","2019",.,.,.,.,.,.
+"Somero","2020",120,..,380,..,3.2,2.0
+"Somero","2021",.,.,.,.,.,.
+"Somero","2022",130,..,320,..,2.5,2.0
+"Somero","2023",.,.,.,.,.,.
+"Sotkamo","2012",220,..,790,..,3.6,3.0
+"Sotkamo","2013",240,7,960,21,4.0,3.0
+"Sotkamo","2014",220,-6,790,-18,3.6,3.0
+"Sotkamo","2015",270,21,950,20,3.5,2.0
+"Sotkamo","2016",200,-24,830,-12,4.2,3.0
+"Sotkamo","2017",240,19,910,10,3.8,3.0
+"Sotkamo","2018",220,-8,810,-11,3.7,3.0
+"Sotkamo","2019",220,0,780,-5,3.5,3.0
+"Sotkamo","2020",280,25,1500,93,5.4,3.0
+"Sotkamo","2021",250,-12,1300,-13,5.2,4.0
+"Sotkamo","2022",230,-5,1210,-7,5.3,4.5
+"Sotkamo","2023",170,-27,790,-35,4.6,4.0
+"Suomussalmi","2012",110,..,420,..,3.8,3.0
+"Suomussalmi","2013",.,.,.,.,.,.
+"Suomussalmi","2014",.,.,.,.,.,.
+"Suomussalmi","2015",.,.,.,.,.,.
+"Suomussalmi","2016",120,..,460,..,3.8,3.0
+"Suomussalmi","2017",.,.,.,.,.,.
+"Suomussalmi","2018",120,..,410,..,3.4,2.0
+"Suomussalmi","2019",.,.,.,.,.,.
+"Suomussalmi","2020",110,..,630,..,5.7,4.0
+"Suomussalmi","2021",130,16,700,10,5.4,4.0
+"Suomussalmi","2022",.,.,.,.,.,.
+"Suomussalmi","2023",.,.,.,.,.,.
+"Sysmä","2012",.,.,.,.,.,.
+"Sysmä","2013",100,..,260,..,2.6,2.0
+"Sysmä","2014",110,9,430,67,3.9,2.0
+"Sysmä","2015",110,0,330,-22,3.0,2.5
+"Sysmä","2016",.,.,.,.,.,.
+"Sysmä","2017",.,.,.,.,.,.
+"Sysmä","2018",110,..,290,..,2.6,2.0
+"Sysmä","2019",.,.,.,.,.,.
+"Sysmä","2020",.,.,.,.,.,.
+"Sysmä","2021",140,..,620,..,4.4,3.0
+"Sysmä","2022",160,16,700,13,4.4,2.0
+"Sysmä","2023",.,.,.,.,.,.
+"Taipalsaari","2012",.,.,.,.,.,.
+"Taipalsaari","2013",.,.,.,.,.,.
+"Taipalsaari","2014",.,.,.,.,.,.
+"Taipalsaari","2015",.,.,.,.,.,.
+"Taipalsaari","2016",.,.,.,.,.,.
+"Taipalsaari","2017",.,.,.,.,.,.
+"Taipalsaari","2018",.,.,.,.,.,.
+"Taipalsaari","2019",.,.,.,.,.,.
+"Taipalsaari","2020",.,.,.,.,.,.
+"Taipalsaari","2021",100,..,770,..,7.7,3.5
+"Taipalsaari","2022",.,.,.,.,.,.
+"Taipalsaari","2023",.,.,.,.,.,.
+"Taivalkoski","2012",.,.,.,.,.,.
+"Taivalkoski","2013",.,.,.,.,.,.
+"Taivalkoski","2014",.,.,.,.,.,.
+"Taivalkoski","2015",.,.,.,.,.,.
+"Taivalkoski","2016",.,.,.,.,.,.
+"Taivalkoski","2017",.,.,.,.,.,.
+"Taivalkoski","2018",110,..,380,..,3.5,2.0
+"Taivalkoski","2019",.,.,.,.,.,.
+"Taivalkoski","2020",.,.,.,.,.,.
+"Taivalkoski","2021",.,.,.,.,.,.
+"Taivalkoski","2022",.,.,.,.,.,.
+"Taivalkoski","2023",.,.,.,.,.,.
+"Tammela","2012",.,.,.,.,.,.
+"Tammela","2013",.,.,.,.,.,.
+"Tammela","2014",.,.,.,.,.,.
+"Tammela","2015",.,.,.,.,.,.
+"Tammela","2016",.,.,.,.,.,.
+"Tammela","2017",.,.,.,.,.,.
+"Tammela","2018",.,.,.,.,.,.
+"Tammela","2019",.,.,.,.,.,.
+"Tammela","2020",.,.,.,.,.,.
+"Tammela","2021",.,.,.,.,.,.
+"Tammela","2022",.,.,.,.,.,.
+"Tammela","2023",100,..,280,..,2.8,2.0
+"Tampere","2012",1540,.,3070,.,2.0,2.0
+"Tampere","2013",1440,-7,2880,-6,2.0,2.0
+"Tampere","2014",1240,-14,2470,-14,2.0,2.0
+"Tampere","2015",1530,23,3220,30,2.1,2.0
+"Tampere","2016",1480,-3,2860,-11,1.9,2.0
+"Tampere","2017",1580,7,3140,10,2.0,2.0
+"Tampere","2018",1430,-10,2820,-10,2.0,2.0
+"Tampere","2019",1470,3,3080,9,2.1,2.0
+"Tampere","2020",890,-39,2060,-33,2.3,2.0
+"Tampere","2021",1110,24,2550,24,2.3,2.0
+"Tampere","2022",1110,0,2610,2,2.4,2.0
+"Tampere","2023",890,-20,1960,-25,2.2,2.0
+"Tornio","2012",110,..,320,..,2.9,2.0
+"Tornio","2013",110,2,270,-15,2.5,2.0
+"Tornio","2014",.,.,.,.,.,.
+"Tornio","2015",110,..,370,..,3.4,2.0
+"Tornio","2016",140,29,430,17,3.1,2.5
+"Tornio","2017",.,.,.,.,.,.
+"Tornio","2018",.,.,.,.,.,.
+"Tornio","2019",.,.,.,.,.,.
+"Tornio","2020",.,.,.,.,.,.
+"Tornio","2021",.,.,.,.,.,.
+"Tornio","2022",.,.,.,.,.,.
+"Tornio","2023",.,.,.,.,.,.
+"Turku","2012",1010,..,2200,..,2.2,2.0
+"Turku","2013",870,-14,1830,-16,2.1,2.0
+"Turku","2014",970,12,2090,14,2.2,2.0
+"Turku","2015",1030,6,2660,27,2.6,2.0
+"Turku","2016",960,-7,1940,-27,2.0,2.0
+"Turku","2017",910,-6,2190,13,2.4,2.0
+"Turku","2018",960,6,1940,-11,2.0,2.0
+"Turku","2019",1020,6,2010,3,2.0,2.0
+"Turku","2020",590,-42,1410,-30,2.4,2.0
+"Turku","2021",800,36,1700,20,2.1,2.0
+"Turku","2022",780,-3,2180,28,2.8,2.0
+"Turku","2023",460,-40,1090,-50,2.4,2.0
+"Uusikaupunki","2012",.,.,.,.,.,.
+"Uusikaupunki","2013",110,..,330,..,3.0,2.0
+"Uusikaupunki","2014",100,-10,310,-5,3.1,2.0
+"Uusikaupunki","2015",140,41,280,-9,2.0,2.0
+"Uusikaupunki","2016",.,.,.,.,.,.
+"Uusikaupunki","2017",100,..,270,..,2.7,2.0
+"Uusikaupunki","2018",.,.,.,.,.,.
+"Uusikaupunki","2019",110,..,700,..,6.4,3.0
+"Uusikaupunki","2020",.,.,.,.,.,.
+"Uusikaupunki","2021",130,..,410,..,3.2,2.0
+"Uusikaupunki","2022",140,9,420,1,3.0,2.0
+"Uusikaupunki","2023",.,.,.,.,.,.
+"Vaala","2012",.,.,.,.,.,.
+"Vaala","2013",.,.,.,.,.,.
+"Vaala","2014",.,.,.,.,.,.
+"Vaala","2015",.,.,.,.,.,.
+"Vaala","2016",.,.,.,.,.,.
+"Vaala","2017",.,.,.,.,.,.
+"Vaala","2018",.,.,.,.,.,.
+"Vaala","2019",.,.,.,.,.,.
+"Vaala","2020",.,.,.,.,.,.
+"Vaala","2021",100,..,780,..,7.8,2.0
+"Vaala","2022",.,.,.,.,.,.
+"Vaala","2023",.,.,.,.,.,.
+"Vaasa","2012",330,..,870,..,2.6,2.0
+"Vaasa","2013",310,-6,690,-21,2.2,2.0
+"Vaasa","2014",280,-10,650,-6,2.3,2.0
+"Vaasa","2015",370,35,1030,59,2.8,2.0
+"Vaasa","2016",250,-33,630,-38,2.5,2.0
+"Vaasa","2017",280,14,620,-3,2.2,2.0
+"Vaasa","2018",280,1,670,9,2.4,2.0
+"Vaasa","2019",330,18,830,24,2.5,2.0
+"Vaasa","2020",130,-60,360,-57,2.8,2.0
+"Vaasa","2021",180,33,500,40,2.8,2.0
+"Vaasa","2022",190,9,510,3,2.7,2.0
+"Vaasa","2023",.,.,.,.,.,.
+"Vantaa","2012",230,.,480,.,2.1,2.0
+"Vantaa","2013",220,-6,480,-2,2.2,2.0
+"Vantaa","2014",230,7,570,21,2.5,2.0
+"Vantaa","2015",270,16,630,10,2.3,2.0
+"Vantaa","2016",220,-19,530,-16,2.4,2.0
+"Vantaa","2017",260,18,540,2,2.1,2.0
+"Vantaa","2018",180,-29,380,-30,2.1,2.0
+"Vantaa","2019",290,58,730,94,2.5,2.0
+"Vantaa","2020",130,-57,450,-39,3.5,2.0
+"Vantaa","2021",200,63,790,77,4.0,2.0
+"Vantaa","2022",230,15,570,-28,2.5,2.0
+"Vantaa","2023",100,-57,240,-57,2.4,2.0
+"Varkaus","2012",120,..,400,..,3.3,2.0
+"Varkaus","2013",110,-10,230,-42,2.1,2.0
+"Varkaus","2014",150,31,410,76,2.7,2.0
+"Varkaus","2015",120,-19,310,-24,2.6,2.0
+"Varkaus","2016",100,-19,250,-19,2.5,2.0
+"Varkaus","2017",100,6,360,45,3.6,2.0
+"Varkaus","2018",140,35,430,20,3.1,2.5
+"Varkaus","2019",.,.,.,.,.,.
+"Varkaus","2020",.,.,.,.,.,.
+"Varkaus","2021",120,..,400,..,3.3,2.0
+"Varkaus","2022",.,.,.,.,.,.
+"Varkaus","2023",.,.,.,.,.,.
+"Vihti","2012",.,.,.,.,.,.
+"Vihti","2013",.,.,.,.,.,.
+"Vihti","2014",100,..,230,..,2.3,2.0
+"Vihti","2015",.,.,.,.,.,.
+"Vihti","2016",.,.,.,.,.,.
+"Vihti","2017",.,.,.,.,.,.
+"Vihti","2018",140,..,320,..,2.3,2.0
+"Vihti","2019",.,.,.,.,.,.
+"Vihti","2020",110,..,410,..,3.7,2.0
+"Vihti","2021",120,9,450,11,3.8,2.0
+"Vihti","2022",.,.,.,.,.,.
+"Vihti","2023",.,.,.,.,.,.
+"Virrat","2012",.,.,.,.,.,.
+"Virrat","2013",110,..,400,..,3.6,2.0
+"Virrat","2014",110,2,280,-31,2.5,2.0
+"Virrat","2015",.,.,.,.,.,.
+"Virrat","2016",.,.,.,.,.,.
+"Virrat","2017",100,..,450,..,4.5,3.0
+"Virrat","2018",.,.,.,.,.,.
+"Virrat","2019",.,.,.,.,.,.
+"Virrat","2020",.,.,.,.,.,.
+"Virrat","2021",130,..,600,..,4.6,6.0
+"Virrat","2022",.,.,.,.,.,.
+"Virrat","2023",.,.,.,.,.,.
+"Ylöjärvi","2012",110,..,230,..,2.1,2.0
+"Ylöjärvi","2013",.,.,.,.,.,.
+"Ylöjärvi","2014",.,.,.,.,.,.
+"Ylöjärvi","2015",.,.,.,.,.,.
+"Ylöjärvi","2016",.,.,.,.,.,.
+"Ylöjärvi","2017",.,.,.,.,.,.
+"Ylöjärvi","2018",100,..,300,..,3.0,2.0
+"Ylöjärvi","2019",.,.,.,.,.,.
+"Ylöjärvi","2020",120,..,320,..,2.7,2.0
+"Ylöjärvi","2021",240,94,700,121,2.9,2.0
+"Ylöjärvi","2022",110,-55,300,-57,2.7,2.0
+"Ylöjärvi","2023",.,.,.,.,.,.
+"Ähtäri","2012",.,.,.,.,.,.
+"Ähtäri","2013",.,.,.,.,.,.
+"Ähtäri","2014",.,.,.,.,.,.
+"Ähtäri","2015",.,.,.,.,.,.
+"Ähtäri","2016",.,.,.,.,.,.
+"Ähtäri","2017",.,.,.,.,.,.
+"Ähtäri","2018",190,..,430,..,2.3,2.0
+"Ähtäri","2019",.,.,.,.,.,.
+"Ähtäri","2020",.,.,.,.,.,.
+"Ähtäri","2021",.,.,.,.,.,.
+"Ähtäri","2022",.,.,.,.,.,.
+"Ähtäri","2023",.,.,.,.,.,.
+"Äänekoski","2012",110,..,310,..,2.8,2.0
+"Äänekoski","2013",.,.,.,.,.,.
+"Äänekoski","2014",.,.,.,.,.,.
+"Äänekoski","2015",.,.,.,.,.,.
+"Äänekoski","2016",.,.,.,.,.,.
+"Äänekoski","2017",100,..,270,..,2.7,3.0
+"Äänekoski","2018",150,48,490,83,3.3,2.0
+"Äänekoski","2019",.,.,.,.,.,.
+"Äänekoski","2020",.,.,.,.,.,.
+"Äänekoski","2021",.,.,.,.,.,.
+"Äänekoski","2022",.,.,.,.,.,.
+"Äänekoski","2023",.,.,.,.,.,.
